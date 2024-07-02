@@ -1,0 +1,1531 @@
+The Matrix,Keanu Reeves,Action,90s 
+Pulp Fiction,John Travolta,Crime,90s 
+The Godfather,Marlon Brando,Drama,Silver Screen 
+Casablanca,Humphrey Bogart,Romance,Silver Screen 
+Titanic,Leonardo DiCaprio,Drama,90s
+Inception,Leonardo DiCaprio,Sci-Fi,2010s
+The Revenant,Leonardo DiCaprio,Adventure,2010s
+The Wolf of Wall Street,Leonardo DiCaprio,Biography,2010s
+Shutter Island,Leonardo DiCaprio,Mystery,2010s
+The Great Gatsby,Leonardo DiCaprio,Drama,2010s
+Django Unchained,Leonardo DiCaprio,Western,2010s
+Catch Me If You Can,Leonardo DiCaprio,Biography,2000s
+The Aviator,Leonardo DiCaprio,Biography,2000s
+Gangs of New York,Leonardo DiCaprio,Drama,2000s
+The Departed,Leonardo DiCaprio,Crime,2000s
+Blood Diamond,Leonardo DiCaprio,Adventure,2000s
+Revolutionary Road,Leonardo DiCaprio,Drama,2000s
+J. Edgar,Leonardo DiCaprio,Biography,2010s
+Body of Lies,Leonardo DiCaprio,Action,2000s
+Romeo + Juliet,Leonardo DiCaprio,Romance,90s
+What's Eating Gilbert Grape,Leonardo DiCaprio,Drama,90s
+The Basketball Diaries,Leonardo DiCaprio,Biography,90s
+The Man in the Iron Mask,Leonardo DiCaprio,Adventure,90s
+The Beach,Leonardo DiCaprio,Drama,2000s
+Groundhog Day,Bill Murray,Comedy,90s
+Anchorman: The Legend of Ron Burgundy,Will Ferrell,Comedy,2000s
+Superbad,Michael Cera,Comedy,2000s
+The Big Lebowski,Jeff Bridges,Comedy,90s
+Monty Python and the Holy Grail,Graham Chapman,Comedy,70s
+Borat,Sacha Baron Cohen,Comedy,2000s
+Dumb and Dumber,Jim Carrey,Comedy,90s
+The Hangover,Bradley Cooper,Comedy,2000s
+Ferris Bueller's Day Off,Matthew Broderick,Comedy,80s
+Ghostbusters,Bill Murray,Comedy,80s
+Caddyshack,Chevy Chase,Comedy,80s
+Step Brothers,Will Ferrell,Comedy,2000s
+Airplane!,Robert Hays,Comedy,80s
+Coming to America,Eddie Murphy,Comedy,80s
+Tropic Thunder,Ben Stiller,Comedy,2000s
+Office Space,Ron Livingston,Comedy,90s
+Bridesmaids,Kristen Wiig,Comedy,2010s
+Happy Gilmore,Adam Sandler,Comedy,90s
+There's Something About Mary,Ben Stiller,Comedy,90s
+The 40-Year-Old Virgin,Steve Carell,Comedy,2000s
+Wedding Crashers,Owen Wilson,Comedy,2000s
+Zoolander,Ben Stiller,Comedy,2000s
+Mean Girls,Lindsay Lohan,Comedy,2000s
+Old School,Luke Wilson,Comedy,2000s
+Napoleon Dynamite,Jon Heder,Comedy,2000s
+Austin Powers: International Man of Mystery,Mike Myers,Comedy,90s
+Wayne's World,Mike Myers,Comedy,90s
+This Is Spinal Tap,Michael McKean,Comedy,80s
+The Princess Bride,Cary Elwes,Comedy,80s
+Shaun of the Dead,Simon Pegg,Comedy,2000s
+Hot Fuzz,Simon Pegg,Comedy,2000s
+Pineapple Express,Seth Rogen,Comedy,2000s
+School of Rock,Jack Black,Comedy,2000s
+Forgetting Sarah Marshall,Jason Segel,Comedy,2000s
+Super Troopers,Jay Chandrasekhar,Comedy,2000s
+Blazing Saddles,Gene Wilder,Comedy,70s
+Trading Places,Eddie Murphy,Comedy,80s
+Groundhog Day,Bill Murray,Comedy,90s
+National Lampoon's Vacation,Chevy Chase,Comedy,80s
+The Grand Budapest Hotel,Ralph Fiennes,Comedy,2010s
+Crazy Rich Asians,Constance Wu,Comedy,2010s
+Deadpool,Ryan Reynolds,Comedy,2010s
+Knives Out,Daniel Craig,Comedy,2010s
+Game Night,Jason Bateman,Comedy,2010s
+The Nice Guys,Russell Crowe,Comedy,2010s
+Juno,Elliot Page,Comedy,2000s
+The Heat,Sandra Bullock,Comedy,2010s
+21 Jump Street,Jonah Hill,Comedy,2010s
+Crazy, Stupid, Love,Steve Carell,Comedy,2010s
+Lady Bird,Saoirse Ronan,Comedy,2010s
+A Fish Called Wanda, John Cleese, Comedy, 80s
+The Blues Brothers, John Belushi, Comedy, 80s
+Clueless, Alicia Silverstone, Comedy, 90s
+Spaceballs, Mel Brooks, Comedy, 80s
+Legally Blonde, Reese Witherspoon, Comedy, 2000s
+The Naked Gun, Leslie Nielsen, Comedy, 80s
+Animal House, John Belushi, Comedy, 70s
+Mrs. Doubtfire, Robin Williams, Comedy, 90s
+Ace Ventura: Pet Detective, Jim Carrey, Comedy, 90s
+Liar Liar, Jim Carrey, Comedy, 90s
+The Mask, Jim Carrey, Comedy, 90s
+The Truman Show, Jim Carrey, Comedy, 90s
+Bruce Almighty, Jim Carrey, Comedy, 2000s
+Big, Tom Hanks, Comedy, 80s
+Groundhog Day, Bill Murray, Comedy, 90s
+Planes, Trains and Automobiles, Steve Martin, Comedy, 80s
+Stripes, Bill Murray, Comedy, 80s
+Beetlejuice, Michael Keaton, Comedy, 80s
+The Breakfast Club, Emilio Estevez, Comedy, 80s
+Ferris Bueller's Day Off, Matthew Broderick, Comedy, 80s
+Back to the Future, Michael J. Fox, Comedy, 80s
+Tootsie, Dustin Hoffman, Comedy, 80s
+Moonstruck, Cher, Comedy, 80s
+Raising Arizona, Nicolas Cage, Comedy, 80s
+Romy and Michele's High School Reunion, Lisa Kudrow, Comedy, 90s
+Wayne's World, Mike Myers, Comedy, 90s
+My Cousin Vinny, Joe Pesci, Comedy, 90s
+Galaxy Quest, Tim Allen, Comedy, 90s
+Office Space, Ron Livingston, Comedy, 90s
+Election, Reese Witherspoon, Comedy, 90s
+The Birdcage, Robin Williams, Comedy, 90s
+The Wedding Singer, Adam Sandler, Comedy, 90s
+Meet the Parents, Ben Stiller, Comedy, 2000s
+Shrek, Mike Myers, Comedy, 2000s
+Legally Blonde, Reese Witherspoon, Comedy, 2000s
+Little Miss Sunshine, Abigail Breslin, Comedy, 2000s
+Mean Girls, Lindsay Lohan, Comedy, 2000s
+50 First Dates, Adam Sandler, Comedy, 2000s
+Tropic Thunder, Ben Stiller, Comedy, 2000s
+Elf, Will Ferrell, Comedy, 2000s
+Wedding Crashers, Owen Wilson, Comedy, 2000s
+Napoleon Dynamite, Jon Heder, Comedy, 2000s
+The 40-Year-Old Virgin, Steve Carell, Comedy, 2000s
+Knocked Up, Seth Rogen, Comedy, 2000s
+Forgetting Sarah Marshall, Jason Segel, Comedy, 2000s
+The Hangover, Bradley Cooper, Comedy, 2000s
+Easy A, Emma Stone, Comedy, 2010s
+The Other Guys, Will Ferrell, Comedy, 2010s
+Horrible Bosses, Jason Bateman, Comedy, 2010s
+Pitch Perfect, Anna Kendrick, Comedy, 2010s
+We're the Millers, Jennifer Aniston, Comedy, 2010s
+The Internship, Vince Vaughn, Comedy, 2010s
+Neighbors, Seth Rogen, Comedy, 2010s
+The Intern, Robert De Niro, Comedy, 2010s
+Trainwreck, Amy Schumer, Comedy, 2010s
+Sisters, Tina Fey, Comedy, 2010s
+The Boss, Melissa McCarthy, Comedy, 2010s
+Central Intelligence, Kevin Hart, Comedy, 2010s
+Why Him?, James Franco, Comedy, 2010s
+Tag, Jeremy Renner, Comedy, 2010s
+The Spy Who Dumped Me, Mila Kunis, Comedy, 2010s
+Long Shot, Seth Rogen, Comedy, 2010s
+Good Boys, Jacob Tremblay, Comedy, 2010s
+Stuber, Kumail Nanjiani, Comedy, 2010s
+Jumanji: Welcome to the Jungle, Dwayne Johnson, Comedy, 2010s
+Jojo Rabbit, Roman Griffin Davis, Comedy, 2010s
+Palm Springs, Andy Samberg, Comedy, 2020s
+The Death of Stalin, Steve Buscemi, Comedy, 2010s
+Booksmart, Beanie Feldstein, Comedy, 2010s
+The Nice Guys, Russell Crowe, Comedy, 2010s
+Game Night, Jason Bateman, Comedy, 2010s
+Blockers, Leslie Mann, Comedy, 2010s
+The Disaster Artist, James Franco, Comedy, 2010s
+The Grand Budapest Hotel, Ralph Fiennes, Comedy, 2010s
+The World's End, Simon Pegg, Comedy, 2010s
+Scott Pilgrim vs. the World, Michael Cera, Comedy, 2010s
+This Is the End, James Franco, Comedy, 2010s
+Bridesmaids, Kristen Wiig, Comedy, 2010s
+Spy, Melissa McCarthy, Comedy, 2010s
+21 Jump Street, Jonah Hill, Comedy, 2010s
+22 Jump Street, Jonah Hill, Comedy, 2010s
+Ted, Mark Wahlberg, Comedy, 2010s
+Horrible Bosses, Jason Bateman, Comedy, 2010s
+Get Him to the Greek, Jonah Hill, Comedy, 2010s
+Date Night, Steve Carell, Comedy, 2010s
+Hot Tub Time Machine, John Cusack, Comedy, 2010s
+Due Date, Robert Downey Jr., Comedy, 2010s
+Zombieland, Jesse Eisenberg, Comedy, 2000s
+Role Models, Paul Rudd, Comedy, 2000s
+I Love You, Man, Paul Rudd, Comedy, 2000s
+Yes Man, Jim Carrey, Comedy, 2000s
+The Proposal, Sandra Bullock, Comedy, 2000s
+Tropic Thunder, Ben Stiller, Comedy, 2000s
+Tucker and Dale vs. Evil, Alan Tudyk, Comedy, 2010s
+Burn After Reading, George Clooney, Comedy, 2000s
+The Invention of Lying, Ricky Gervais, Comedy, 2000s
+Adventureland, Jesse Eisenberg, Comedy, 2000s
+Youth in Revolt, Michael Cera, Comedy, 2000s
+Kick-Ass, Aaron Taylor-Johnson, Comedy, 2000s
+The Men Who Stare at Goats, George Clooney, Comedy, 2000s
+Planes, Trains and Automobiles,Steve Martin,Comedy,80s
+Dirty Rotten Scoundrels,Steve Martin,Comedy,80s
+Three Amigos,Steve Martin,Comedy,80s
+Roxanne,Steve Martin,Comedy,80s
+The Jerk,Steve Martin,Comedy,80s
+My Blue Heaven,Steve Martin,Comedy,90s
+Parenthood,Steve Martin,Comedy,80s
+The Great Outdoors,John Candy,Comedy,80s
+Uncle Buck,John Candy,Comedy,80s
+Cool Runnings,John Candy,Comedy,90s
+Who Framed Roger Rabbit,Bob Hoskins,Comedy,80s
+A League of Their Own,Tom Hanks,Comedy,90s
+Big,Tom Hanks,Comedy,80s
+Splash,Tom Hanks,Comedy,80s
+Turner & Hooch,Tom Hanks,Comedy,80s
+Joe Versus the Volcano,Tom Hanks,Comedy,90s
+Sleepless in Seattle,Tom Hanks,Comedy,90s
+You've Got Mail,Tom Hanks,Comedy,90s
+Bachelor Party,Tom Hanks,Comedy,80s
+The Money Pit,Tom Hanks,Comedy,80s
+Punchline,Tom Hanks,Comedy,80s
+Bowfinger,Steve Martin,Comedy,90s
+Mixed Nuts,Steve Martin,Comedy,90s
+Houseguest,Sinbad,Comedy,90s
+Jingle All the Way,Arnold Schwarzenegger,Comedy,90s
+Kindergarten Cop,Arnold Schwarzenegger,Comedy,90s
+Twins,Arnold Schwarzenegger,Comedy,80s
+Junior,Arnold Schwarzenegger,Comedy,90s
+The 'Burbs,Tom Hanks,Comedy,80s
+The Man with One Red Shoe,Tom Hanks,Comedy,80s
+Heart and Souls,Robert Downey Jr.,Comedy,90s
+Soapdish,Robert Downey Jr.,Comedy,90s
+Chaplin,Robert Downey Jr.,Comedy,90s
+My Best Friend's Wedding,Julia Roberts,Comedy,90s
+Notting Hill,Hugh Grant,Comedy,90s
+Four Weddings and a Funeral,Hugh Grant,Comedy,90s
+Nine Months,Hugh Grant,Comedy,90s
+Two Weeks Notice,Hugh Grant,Comedy,2000s
+Love Actually,Hugh Grant,Comedy,2000s
+About a Boy,Hugh Grant,Comedy,2000s
+Bridget Jones's Diary,Renée Zellweger,Comedy,2000s
+The Full Monty,Robert Carlyle,Comedy,90s
+Waking Ned Devine,Ian Bannen,Comedy,90s
+In & Out,Kevin Kline,Comedy,90s
+Galaxy Quest,Tim Allen,Comedy,90s
+The Birdcage,Robin Williams,Comedy,90s
+Good Morning, Vietnam,Robin Williams,Comedy,80s
+Aladdin,Robin Williams,Comedy,90s
+Mrs. Doubtfire,Robin Williams,Comedy,90s
+The Fisher King,Robin Williams,Comedy,90s
+Patch Adams,Robin Williams,Comedy,90s
+Father of the Bride,Steve Martin,Comedy,90s
+City Slickers,Billy Crystal,Comedy,90s
+Analyze This,Billy Crystal,Comedy,90s
+The First Wives Club,Goldie Hawn,Comedy,90s
+Death Becomes Her,Meryl Streep,Comedy,90s
+Outrageous Fortune,Shelley Long,Comedy,80s
+Ruthless People,Danny DeVito,Comedy,80s
+War of the Roses,Michael Douglas,Comedy,80s
+Romancing the Stone,Michael Douglas,Comedy,80s
+The Jewel of the Nile,Michael Douglas,Comedy,80s
+Bird on a Wire,Mel Gibson,Comedy,90s
+Lethal Weapon 2,Mel Gibson,Comedy,80s
+Lethal Weapon 3,Mel Gibson,Comedy,90s
+Maverick,Mel Gibson,Comedy,90s
+What Women Want,Mel Gibson,Comedy,2000s
+Shanghai Noon,Jackie Chan,Comedy,2000s
+Rush Hour,Jackie Chan,Comedy,90s
+Rush Hour 2,Jackie Chan,Comedy,2000s
+Shanghai Knights,Jackie Chan,Comedy,2000s
+Spy Game,Robert Redford,Comedy,2000s
+Spies Like Us,Chevy Chase,Comedy,80s
+Three Fugitives,Nick Nolte,Comedy,80s
+48 Hrs.,Eddie Murphy,Comedy,80s
+Another 48 Hrs.,Eddie Murphy,Comedy,90s
+The Golden Child,Eddie Murphy,Comedy,80s
+The Distinguished Gentleman,Eddie Murphy,Comedy,90s
+Bowfinger,Eddie Murphy,Comedy,90s
+Nutty Professor,Eddie Murphy,Comedy,90s
+Nutty Professor II: The Klumps,Eddie Murphy,Comedy,2000s
+Dr. Dolittle,Eddie Murphy,Comedy,90s
+Dr. Dolittle 2,Eddie Murphy,Comedy,2000s
+Norbit,Eddie Murphy,Comedy,2000s
+The Love Guru,Mike Myers,Comedy,2000s
+Wayne's World 2,Mike Myers,Comedy,90s
+I Love You, Man,Paul Rudd,Comedy,2000s
+Wanderlust,Paul Rudd,Comedy,2010s
+Role Models,Paul Rudd,Comedy,2000s
+Our Idiot Brother,Paul Rudd,Comedy,2010s
+Dinner for Schmucks,Paul Rudd,Comedy,2010s
+Knocked Up,Paul Rudd,Comedy,2000s
+This Is 40,Paul Rudd,Comedy,2010s
+Admission,Paul Rudd,Comedy,2010s
+The Fundamentals of Caring,Paul Rudd,Comedy,2010s
+All Is Bright,Paul Rudd,Comedy,2010s
+Clueless,Paul Rudd,Comedy,90s
+The Object of My Affection,Paul Rudd,Comedy,90s
+Caddyshack II,Chevy Chase,Comedy,80s
+The Secret of My Success,Michael J. Fox,Comedy,80s
+Doc Hollywood,Michael J. Fox,Comedy,90s
+The Silence of the Lambs,Jodie Foster,Thriller,90s
+Seven,Brad Pitt,Thriller,90s
+Fight Club,Brad Pitt,Thriller,90s
+The Sixth Sense,Bruce Willis,Thriller,90s
+The Usual Suspects,Kevin Spacey,Thriller,90s
+Heat,Al Pacino,Thriller,90s
+L.A. Confidential,Russell Crowe,Thriller,90s
+The Game,Michael Douglas,Thriller,90s
+Primal Fear,Richard Gere,Thriller,90s
+The Fugitive,Harrison Ford,Thriller,90s
+A Beautiful Mind,Russell Crowe,Thriller,2000s
+The Departed,Leonardo DiCaprio,Thriller,2000s
+Gone Girl,Ben Affleck,Thriller,2010s
+Shutter Island,Leonardo DiCaprio,Thriller,2010s
+Inception,Leonardo DiCaprio,Thriller,2010s
+Black Swan,Natalie Portman,Thriller,2010s
+Nightcrawler,Jake Gyllenhaal,Thriller,2010s
+Prisoners,Hugh Jackman,Thriller,2010s
+No Country for Old Men,Javier Bardem,Thriller,2000s
+Oldboy,Choi Min-sik,Thriller,2000s
+Zodiac,Jake Gyllenhaal,Thriller,2000s
+The Girl with the Dragon Tattoo,Daniel Craig,Thriller,2010s
+The Machinist,Christian Bale,Thriller,2000s
+Memento,Guy Pearce,Thriller,2000s
+The Prestige,Christian Bale,Thriller,2000s
+Gone Baby Gone,Casey Affleck,Thriller,2000s
+Mystic River,Sean Penn,Thriller,2000s
+The Town,Ben Affleck,Thriller,2010s
+Source Code,Jake Gyllenhaal,Thriller,2010s
+Looper,Bruce Willis,Thriller,2010s
+The Dark Knight,Christian Bale,Thriller,2000s
+The Equalizer,Denzel Washington,Thriller,2010s
+Sicario,Emily Blunt,Thriller,2010s
+Jack Reacher,Tom Cruise,Thriller,2010s
+John Wick,Keanu Reeves,Thriller,2010s
+A Quiet Place,Emily Blunt,Thriller,2010s
+Get Out,Daniel Kaluuya,Thriller,2010s
+It,Finn Wolfhard,Thriller,2010s
+Split,James McAvoy,Thriller,2010s
+Glass,James McAvoy,Thriller,2010s
+Us,Lupita Nyong'o,Thriller,2010s
+Joker,Joaquin Phoenix,Thriller,2010s
+Drive,Ryan Gosling,Thriller,2010s
+Bird Box,Sandra Bullock,Thriller,2010s
+The Invisible Man,Elisabeth Moss,Thriller,2020s
+The Revenant,Leonardo DiCaprio,Thriller,2010s
+Mad Max: Fury Road,Tom Hardy,Thriller,2010s
+The Revenant,Leonardo DiCaprio,Thriller,2010s
+Skyfall,Daniel Craig,Thriller,2010s
+Casino Royale,Daniel Craig,Thriller,2000s
+Silence of the Lambs, Jodie Foster, Thriller, 90s
+Psycho, Anthony Perkins, Thriller, 60s
+Vertigo, James Stewart, Thriller, 50s
+Cape Fear, Robert De Niro, Thriller, 90s
+Taxi Driver, Robert De Niro, Thriller, 70s
+The Shining, Jack Nicholson, Thriller, 80s
+American Psycho, Christian Bale, Thriller, 2000s
+The Handmaiden, Kim Min-hee, Thriller, 2010s
+Mulholland Drive, Naomi Watts, Thriller, 2000s
+Donnie Darko, Jake Gyllenhaal, Thriller, 2000s
+The Others, Nicole Kidman, Thriller, 2000s
+Requiem for a Dream, Jared Leto, Thriller, 2000s
+The Silence of the Lambs, Anthony Hopkins, Thriller, 90s
+Misery, Kathy Bates, Thriller, 90s
+Panic Room, Jodie Foster, Thriller, 2000s
+Collateral, Tom Cruise, Thriller, 2000s
+Insomnia, Al Pacino, Thriller, 2000s
+The Girl with the Dragon Tattoo, Rooney Mara, Thriller, 2010s
+Gone Baby Gone, Casey Affleck, Thriller, 2000s
+Cape Fear, Robert Mitchum, Thriller, 60s
+Serpico, Al Pacino, Thriller, 70s
+Dog Day Afternoon, Al Pacino, Thriller, 70s
+Chinatown, Jack Nicholson, Thriller, 70s
+Network, Faye Dunaway, Thriller, 70s
+Marathon Man, Dustin Hoffman, Thriller, 70s
+The Conversation, Gene Hackman, Thriller, 70s
+Scarface, Al Pacino, Thriller, 80s
+Fatal Attraction, Michael Douglas, Thriller, 80s
+Basic Instinct, Sharon Stone, Thriller, 90s
+Blue Velvet, Kyle MacLachlan, Thriller, 80s
+Jacob's Ladder, Tim Robbins, Thriller, 90s
+Fargo, Frances McDormand, Thriller, 90s
+The Bone Collector, Denzel Washington, Thriller, 90s
+The Pelican Brief, Julia Roberts, Thriller, 90s
+Arlington Road, Jeff Bridges, Thriller, 90s
+The Firm, Tom Cruise, Thriller, 90s
+The Insider, Russell Crowe, Thriller, 90s
+Enemy of the State, Will Smith, Thriller, 90s
+The Negotiator, Samuel L. Jackson, Thriller, 90s
+The Manchurian Candidate, Denzel Washington, Thriller, 2000s
+The Butterfly Effect, Ashton Kutcher, Thriller, 2000s
+Man on Fire, Denzel Washington, Thriller, 2000s
+The Bourne Identity, Matt Damon, Thriller, 2000s
+The Bourne Supremacy, Matt Damon, Thriller, 2000s
+The Bourne Ultimatum, Matt Damon, Thriller, 2000s
+Eastern Promises, Viggo Mortensen, Thriller, 2000s
+Inside Man, Denzel Washington, Thriller, 2000s
+Changeling, Angelina Jolie, Thriller, 2000s
+Law Abiding Citizen, Gerard Butler, Thriller, 2000s
+Contagion, Matt Damon, Thriller, 2010s
+Limitless, Bradley Cooper, Thriller, 2010s
+Moneyball, Brad Pitt, Thriller, 2010s
+Tinker Tailor Soldier Spy, Gary Oldman, Thriller, 2010s
+Zero Dark Thirty, Jessica Chastain, Thriller, 2010s
+Argo, Ben Affleck, Thriller, 2010s
+Captain Phillips, Tom Hanks, Thriller, 2010s
+The Accountant, Ben Affleck, Thriller, 2010s
+Wind River, Jeremy Renner, Thriller, 2010s
+The Gift, Jason Bateman, Thriller, 2010s
+The Invitation, Logan Marshall-Green, Thriller, 2010s
+Green Room, Anton Yelchin, Thriller, 2010s
+The Witch, Anya Taylor-Joy, Thriller, 2010s
+Good Time, Robert Pattinson, Thriller, 2010s
+The Killing of a Sacred Deer, Colin Farrell, Thriller, 2010s
+The Babadook, Essie Davis, Thriller, 2010s
+Snowpiercer, Chris Evans, Thriller, 2010s
+The Hateful Eight, Samuel L. Jackson, Thriller, 2010s
+Enemy, Jake Gyllenhaal, Thriller, 2010s
+The Gift, Joel Edgerton, Thriller, 2010s
+You Were Never Really Here, Joaquin Phoenix, Thriller, 2010s
+Bad Times at the El Royale, Jeff Bridges, Thriller, 2010s
+Nocturnal Animals, Amy Adams, Thriller, 2010s
+Mandy, Nicolas Cage, Thriller, 2010s
+The Night Comes for Us, Joe Taslim, Thriller, 2010s
+Gerald's Game, Carla Gugino, Thriller, 2010s
+The Invitation, Logan Marshall-Green, Thriller, 2010s
+The Autopsy of Jane Doe, Emile Hirsch, Thriller, 2010s
+Unsane, Claire Foy, Thriller, 2010s
+Under the Skin, Scarlett Johansson, Thriller, 2010s
+A Most Violent Year, Oscar Isaac, Thriller, 2010s
+13 Hours, John Krasinski, Thriller, 2010s
+Patriots Day, Mark Wahlberg, Thriller, 2010s
+Everest, Jason Clarke, Thriller, 2010s
+Life, Jake Gyllenhaal, Thriller, 2010s
+The Girl on the Train, Emily Blunt, Thriller, 2010s
+Imperium, Daniel Radcliffe, Thriller, 2010s
+Death Note, Nat Wolff, Thriller, 2010s
+Dragged Across Concrete, Mel Gibson, Thriller, 2010s
+Dark Waters, Mark Ruffalo, Thriller, 2010s
+The Purge, Ethan Hawke, Thriller, 2010s
+13 Sins, Mark Webber, Thriller, 2010s
+The Snowman, Michael Fassbender, Thriller, 2010s
+The Little Things, Denzel Washington, Thriller, 2020s
+Synchronic, Anthony Mackie, Thriller, 2020s
+Vivarium, Imogen Poots, Thriller, 2020s
+The Platform, Iván Massagué, Thriller, 2020s
+Uncut Gems, Adam Sandler, Thriller, 2010s
+Bad Education, Hugh Jackman, Thriller, 2020s
+The Devil All the Time, Tom Holland, Thriller, 2020s
+Run, Sarah Paulson, Thriller, 2020s
+Die Hard,Bruce Willis,Action,80s
+Terminator 2: Judgment Day,Arnold Schwarzenegger,Action,90s
+Mad Max: Fury Road,Tom Hardy,Action,2010s
+The Dark Knight,Christian Bale,Action,2000s
+Gladiator,Russell Crowe,Action,2000s
+The Matrix,Keanu Reeves,Action,90s
+Inception,Leonardo DiCaprio,Action,2010s
+The Avengers,Robert Downey Jr.,Action,2010s
+Avengers: Endgame,Robert Downey Jr.,Action,2010s
+Black Panther,Chadwick Boseman,Action,2010s
+John Wick,Keanu Reeves,Action,2010s
+The Bourne Identity,Matt Damon,Action,2000s
+The Bourne Ultimatum,Matt Damon,Action,2000s
+Casino Royale,Daniel Craig,Action,2000s
+Skyfall,Daniel Craig,Action,2010s
+Raiders of the Lost Ark,Harrison Ford,Action,80s
+Indiana Jones and the Last Crusade,Harrison Ford,Action,80s
+The Fugitive,Harrison Ford,Action,90s
+Mission: Impossible - Fallout,Tom Cruise,Action,2010s
+Top Gun,Tom Cruise,Action,80s
+Top Gun: Maverick,Tom Cruise,Action,2020s
+Spider-Man: Into the Spider-Verse,Shameik Moore,Action,2010s
+Iron Man,Robert Downey Jr.,Action,2000s
+Guardians of the Galaxy,Chris Pratt,Action,2010s
+The Terminator,Arnold Schwarzenegger,Action,80s
+Lethal Weapon,Mel Gibson,Action,80s
+The Rock,Sean Connery,Action,90s
+Bad Boys,Will Smith,Action,90s
+Speed,Keanu Reeves,Action,90s
+Face/Off,John Travolta,Action,90s
+Con Air,Nicolas Cage,Action,90s
+True Lies,Arnold Schwarzenegger,Action,90s
+Predator,Arnold Schwarzenegger,Action,80s
+Robocop,Peter Weller,Action,80s
+Mad Max 2: The Road Warrior,Mel Gibson,Action,80s
+First Blood,Sylvester Stallone,Action,80s
+Rambo: First Blood Part II,Sylvester Stallone,Action,80s
+Commando,Arnold Schwarzenegger,Action,80s
+The Expendables,Sylvester Stallone,Action,2010s
+300,Gerard Butler,Action,2000s
+The Transporter,Jason Statham,Action,2000s
+Crank,Jason Statham,Action,2000s
+The Equalizer,Denzel Washington,Action,2010s
+Man on Fire,Denzel Washington,Action,2000s
+The Dark Knight Rises,Christian Bale,Action,2010s
+Wonder Woman,Gal Gadot,Action,2010s
+The Hunger Games,Jennifer Lawrence,Action,2010s
+Kick-Ass,Aaron Taylor-Johnson,Action,2010s
+Edge of Tomorrow,Tom Cruise,Action,2010s
+Logan,Hugh Jackman,Action,2010s
+Die Hard, Bruce Willis, Action, 80s
+Die Hard 2, Bruce Willis, Action, 90s
+Die Hard with a Vengeance, Bruce Willis, Action, 90s
+The Fifth Element, Bruce Willis, Action, 90s
+The Raid: Redemption, Iko Uwais, Action, 2010s
+The Raid 2, Iko Uwais, Action, 2010s
+Oldboy, Choi Min-sik, Action, 2000s
+Enter the Dragon, Bruce Lee, Action, 70s
+The Magnificent Seven, Yul Brynner, Action, 60s
+Heat, Al Pacino, Action, 90s
+Point Break, Keanu Reeves, Action, 90s
+Total Recall, Arnold Schwarzenegger, Action, 90s
+Minority Report, Tom Cruise, Action, 2000s
+Warrior, Tom Hardy, Action, 2010s
+The Fast and the Furious, Vin Diesel, Action, 2000s
+Fast Five, Vin Diesel, Action, 2010s
+Mad Max, Mel Gibson, Action, 70s
+Heat, Robert De Niro, Action, 90s
+Pacific Rim, Idris Elba, Action, 2010s
+The A-Team, Liam Neeson, Action, 2010s
+Jack Reacher, Tom Cruise, Action, 2010s
+Taken, Liam Neeson, Action, 2000s
+Taken 2, Liam Neeson, Action, 2010s
+Taken 3, Liam Neeson, Action, 2010s
+Non-Stop, Liam Neeson, Action, 2010s
+Unknown, Liam Neeson, Action, 2010s
+The Grey, Liam Neeson, Action, 2010s
+Run All Night, Liam Neeson, Action, 2010s
+King Kong, Naomi Watts, Action, 2000s
+Avatar, Sam Worthington, Action, 2000s
+Blood Diamond, Leonardo DiCaprio, Action, 2000s
+Troy, Brad Pitt, Action, 2000s
+The Last Samurai, Tom Cruise, Action, 2000s
+Glory, Denzel Washington, Action, 80s
+The Last of the Mohicans, Daniel Day-Lewis, Action, 90s
+The Patriot, Mel Gibson, Action, 2000s
+Independence Day, Will Smith, Action, 90s
+Men in Black, Will Smith, Action, 90s
+Men in Black II, Will Smith, Action, 2000s
+Men in Black 3, Will Smith, Action, 2010s
+Bad Boys II, Will Smith, Action, 2000s
+Armageddon, Bruce Willis, Action, 90s
+Tears of the Sun, Bruce Willis, Action, 2000s
+Red, Bruce Willis, Action, 2010s
+Red 2, Bruce Willis, Action, 2010s
+The Last Boy Scout, Bruce Willis, Action, 90s
+Unbreakable, Bruce Willis, Action, 2000s
+Hostage, Bruce Willis, Action, 2000s
+The Jackal, Bruce Willis, Action, 90s
+G.I. Joe: The Rise of Cobra, Channing Tatum, Action, 2000s
+G.I. Joe: Retaliation, Dwayne Johnson, Action, 2010s
+X-Men, Hugh Jackman, Action, 2000s
+X2: X-Men United, Hugh Jackman, Action, 2000s
+X-Men: The Last Stand, Hugh Jackman, Action, 2000s
+X-Men: First Class, James McAvoy, Action, 2010s
+X-Men: Days of Future Past, Hugh Jackman, Action, 2010s
+X-Men: Apocalypse, James McAvoy, Action, 2010s
+Deadpool, Ryan Reynolds, Action, 2010s
+Deadpool 2, Ryan Reynolds, Action, 2010s
+Spider-Man, Tobey Maguire, Action, 2000s
+Spider-Man 2, Tobey Maguire, Action, 2000s
+Spider-Man 3, Tobey Maguire, Action, 2000s
+The Amazing Spider-Man, Andrew Garfield, Action, 2010s
+The Amazing Spider-Man 2, Andrew Garfield, Action, 2010s
+Thor, Chris Hemsworth, Action, 2010s
+Thor: The Dark World, Chris Hemsworth, Action, 2010s
+Thor: Ragnarok, Chris Hemsworth, Action, 2010s
+Doctor Strange, Benedict Cumberbatch, Action, 2010s
+Ant-Man, Paul Rudd, Action, 2010s
+Ant-Man and the Wasp, Paul Rudd, Action, 2010s
+Captain America: The First Avenger, Chris Evans, Action, 2010s
+Captain America: The Winter Soldier, Chris Evans, Action, 2010s
+Captain America: Civil War, Chris Evans, Action, 2010s
+The Incredible Hulk, Edward Norton, Action, 2000s
+Hulk, Eric Bana, Action, 2000s
+Blade, Wesley Snipes, Action, 90s
+Blade II, Wesley Snipes, Action, 2000s
+Blade: Trinity, Wesley Snipes, Action, 2000s
+Kick-Ass 2, Aaron Taylor-Johnson, Action, 2010s
+Kingsman: The Secret Service, Taron Egerton, Action, 2010s
+Kingsman: The Golden Circle, Taron Egerton, Action, 2010s
+The Hitman's Bodyguard, Ryan Reynolds, Action, 2010s
+The Hitman's Wife's Bodyguard, Ryan Reynolds, Action, 2020s
+Atomic Blonde, Charlize Theron, Action, 2010s
+Lucy, Scarlett Johansson, Action, 2010s
+Ghost in the Shell, Scarlett Johansson, Action, 2010s
+Salt, Angelina Jolie, Action, 2010s
+Wanted, Angelina Jolie, Action, 2000s
+Mr. & Mrs. Smith, Brad Pitt, Action, 2000s
+Jumper, Hayden Christensen, Action, 2000s
+Elysium, Matt Damon, Action, 2010s
+Oblivion, Tom Cruise, Action, 2010s
+Edge of Tomorrow, Tom Cruise, Action, 2010s
+Mission: Impossible - Ghost Protocol, Tom Cruise, Action, 2010s
+Mission: Impossible - Rogue Nation, Tom Cruise, Action, 2010s
+Mission: Impossible III, Tom Cruise, Action, 2000s
+Mission: Impossible II, Tom Cruise, Action, 2000s
+Mission: Impossible, Tom Cruise, Action, 90s
+War of the Worlds, Tom Cruise, Action, 2000s
+Jack Reacher: Never Go Back, Tom Cruise, Action, 2010s
+Raiders of the Lost Ark,Harrison Ford,Adventure,80s
+Indiana Jones and the Last Crusade,Harrison Ford,Adventure,80s
+Jurassic Park,Sam Neill,Adventure,90s
+The Lord of the Rings: The Fellowship of the Ring,Elijah Wood,Adventure,2000s
+The Lord of the Rings: The Two Towers,Elijah Wood,Adventure,2000s
+The Lord of the Rings: The Return of the King,Elijah Wood,Adventure,2000s
+Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp,Adventure,2000s
+The Goonies,Sean Astin,Adventure,80s
+Back to the Future,Michael J. Fox,Adventure,80s
+Avatar,Sam Worthington,Adventure,2000s
+Harry Potter and the Sorcerer's Stone,Daniel Radcliffe,Adventure,2000s
+Harry Potter and the Chamber of Secrets,Daniel Radcliffe,Adventure,2000s
+Harry Potter and the Prisoner of Azkaban,Daniel Radcliffe,Adventure,2000s
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe,Georgie Henley,Adventure,2000s
+Jumanji,Robin Williams,Adventure,90s
+Guardians of the Galaxy,Chris Pratt,Adventure,2010s
+The Hobbit: An Unexpected Journey,Martin Freeman,Adventure,2010s
+The Hobbit: The Desolation of Smaug,Martin Freeman,Adventure,2010s
+The Hobbit: The Battle of the Five Armies,Martin Freeman,Adventure,2010s
+Star Wars: Episode IV - A New Hope,Mark Hamill,Adventure,70s
+Star Wars: Episode V - The Empire Strikes Back,Mark Hamill,Adventure,80s
+Star Wars: Episode VI - Return of the Jedi,Mark Hamill,Adventure,80s
+The Princess Bride,Cary Elwes,Adventure,80s
+Mad Max: Fury Road,Tom Hardy,Adventure,2010s
+The Hunger Games,Jennifer Lawrence,Adventure,2010s
+The Hunger Games: Catching Fire,Jennifer Lawrence,Adventure,2010s
+The Hunger Games: Mockingjay - Part 1,Jennifer Lawrence,Adventure,2010s
+The Hunger Games: Mockingjay - Part 2,Jennifer Lawrence,Adventure,2010s
+Cast Away,Tom Hanks,Adventure,2000s
+The Revenant,Leonardo DiCaprio,Adventure,2010s
+The Jungle Book,Neel Sethi,Adventure,2010s
+Zootopia,Ginnifer Goodwin,Adventure,2010s
+Life of Pi,Suraj Sharma,Adventure,2010s
+The Secret Life of Walter Mitty,Ben Stiller,Adventure,2010s
+The Great Wall,Matt Damon,Adventure,2010s
+National Treasure,Nicolas Cage,Adventure,2000s
+National Treasure: Book of Secrets,Nicolas Cage,Adventure,2000s
+Moana,Auli'i Cravalho,Adventure,2010s
+Finding Nemo,Albert Brooks,Adventure,2000s
+Finding Dory,Ellen DeGeneres,Adventure,2010s
+Toy Story,Tom Hanks,Adventure,90s
+Toy Story 2,Tom Hanks,Adventure,90s
+Toy Story 3,Tom Hanks,Adventure,2010s
+Toy Story 4,Tom Hanks,Adventure,2010s
+Big Hero 6,Ryan Potter,Adventure,2010s
+Aladdin,Scott Weinger,Adventure,90s
+The Lion King,Matthew Broderick,Adventure,90s
+Up,Ed Asner,Adventure,2000s
+Frozen,Kristen Bell,Adventure,2010s
+Coco,Anthony Gonzalez,Adventure,2010s
+King Kong, Naomi Watts, Adventure, 2000s
+The Mummy, Brendan Fraser, Adventure, 90s
+The Mummy Returns, Brendan Fraser, Adventure, 2000s
+The Mummy: Tomb of the Dragon Emperor, Brendan Fraser, Adventure, 2000s
+Jurassic World, Chris Pratt, Adventure, 2010s
+Jurassic World: Fallen Kingdom, Chris Pratt, Adventure, 2010s
+The Chronicles of Narnia: Prince Caspian, Ben Barnes, Adventure, 2000s
+The Chronicles of Narnia: The Voyage of the Dawn Treader, Ben Barnes, Adventure, 2010s
+Tomb Raider, Alicia Vikander, Adventure, 2010s
+Lara Croft: Tomb Raider, Angelina Jolie, Adventure, 2000s
+Lara Croft Tomb Raider: The Cradle of Life, Angelina Jolie, Adventure, 2000s
+Percy Jackson & the Olympians: The Lightning Thief, Logan Lerman, Adventure, 2010s
+Percy Jackson: Sea of Monsters, Logan Lerman, Adventure, 2010s
+Alice in Wonderland, Mia Wasikowska, Adventure, 2010s
+Alice Through the Looking Glass, Mia Wasikowska, Adventure, 2010s
+The Golden Compass, Nicole Kidman, Adventure, 2000s
+The Adventures of Tintin, Jamie Bell, Adventure, 2010s
+The NeverEnding Story, Barret Oliver, Adventure, 80s
+Eragon, Edward Speleers, Adventure, 2000s
+Journey to the Center of the Earth, Brendan Fraser, Adventure, 2000s
+Journey 2: The Mysterious Island, Dwayne Johnson, Adventure, 2010s
+Spider-Man: Homecoming, Tom Holland, Adventure, 2010s
+Spider-Man: Far From Home, Tom Holland, Adventure, 2010s
+Spider-Man: No Way Home, Tom Holland, Adventure, 2020s
+Wonder Woman 1984, Gal Gadot, Adventure, 2020s
+Aquaman, Jason Momoa, Adventure, 2010s
+Shazam!, Zachary Levi, Adventure, 2010s
+The Lego Movie, Chris Pratt, Adventure, 2010s
+The Lego Movie 2: The Second Part, Chris Pratt, Adventure, 2010s
+The Secret of NIMH, Elizabeth Hartman, Adventure, 80s
+The Rescuers, Bob Newhart, Adventure, 70s
+The Rescuers Down Under, Bob Newhart, Adventure, 90s
+Treasure Planet, Joseph Gordon-Levitt, Adventure, 2000s
+Atlantis: The Lost Empire, Michael J. Fox, Adventure, 2000s
+Bolt, John Travolta, Adventure, 2000s
+Hercules, Tate Donovan, Adventure, 90s
+Tarzan, Tony Goldwyn, Adventure, 90s
+The Road to El Dorado, Kevin Kline, Adventure, 2000s
+Anastasia, Meg Ryan, Adventure, 90s
+Prince of Persia: The Sands of Time, Jake Gyllenhaal, Adventure, 2010s
+Brave, Kelly Macdonald, Adventure, 2010s
+Wreck-It Ralph, John C. Reilly, Adventure, 2010s
+Ralph Breaks the Internet, John C. Reilly, Adventure, 2010s
+Kubo and the Two Strings, Art Parkinson, Adventure, 2010s
+How to Train Your Dragon, Jay Baruchel, Adventure, 2010s
+How to Train Your Dragon 2, Jay Baruchel, Adventure, 2010s
+How to Train Your Dragon: The Hidden World, Jay Baruchel, Adventure, 2010s
+Kung Fu Panda, Jack Black, Adventure, 2000s
+Kung Fu Panda 2, Jack Black, Adventure, 2010s
+Kung Fu Panda 3, Jack Black, Adventure, 2010s
+Shrek, Mike Myers, Adventure, 2000s
+Shrek 2, Mike Myers, Adventure, 2000s
+Shrek the Third, Mike Myers, Adventure, 2000s
+Shrek Forever After, Mike Myers, Adventure, 2010s
+The Croods, Nicolas Cage, Adventure, 2010s
+The Croods: A New Age, Nicolas Cage, Adventure, 2020s
+Rio, Jesse Eisenberg, Adventure, 2010s
+Rio 2, Jesse Eisenberg, Adventure, 2010s
+Epic, Amanda Seyfried, Adventure, 2010s
+The Good Dinosaur, Raymond Ochoa, Adventure, 2010s
+Frozen II, Kristen Bell, Adventure, 2010s
+Big Fish, Ewan McGregor, Adventure, 2000s
+Hugo, Asa Butterfield, Adventure, 2010s
+A Wrinkle in Time, Storm Reid, Adventure, 2010s
+Paddington, Ben Whishaw, Adventure, 2010s
+Paddington 2, Ben Whishaw, Adventure, 2010s
+Pete's Dragon, Oakes Fegley, Adventure, 2010s
+Maleficent, Angelina Jolie, Adventure, 2010s
+Maleficent: Mistress of Evil, Angelina Jolie, Adventure, 2010s
+Dumbo, Colin Farrell, Adventure, 2010s
+Mary Poppins Returns, Emily Blunt, Adventure, 2010s
+Onward, Tom Holland, Adventure, 2020s
+Soul, Jamie Foxx, Adventure, 2020s
+Raya and the Last Dragon, Kelly Marie Tran, Adventure, 2020s
+The Call of the Wild, Harrison Ford, Adventure, 2020s
+Jungle Cruise, Dwayne Johnson, Adventure, 2020s
+Free Guy, Ryan Reynolds, Adventure, 2020s
+Alita: Battle Angel, Rosa Salazar, Adventure, 2010s
+The House with a Clock in Its Walls, Jack Black, Adventure, 2010s
+Mowgli: Legend of the Jungle, Rohan Chand, Adventure, 2010s
+The Kid Who Would Be King, Louis Ashbourne Serkis, Adventure, 2010s
+The BFG, Mark Rylance, Adventure, 2010s
+The Sorcerer's Apprentice, Nicolas Cage, Adventure, 2010s
+Percy Jackson: The Titan's Curse, Logan Lerman, Adventure, 2010s
+The Book of Life, Diego Luna, Adventure, 2010s
+Tomorrowland, George Clooney, Adventure, 2010s
+John Carter, Taylor Kitsch, Adventure, 2010s
+Oz the Great and Powerful, James Franco, Adventure, 2010s
+The Lone Ranger, Johnny Depp, Adventure, 2010s
+Mortal Engines, Hera Hilmar, Adventure, 2010s
+Seventh Son, Ben Barnes, Adventure, 2010s
+The Huntsman: Winter's War, Chris Hemsworth, Adventure, 2010s
+Snow White and the Huntsman, Kristen Stewart, Adventure, 2010s
+Into the Woods, Anna Kendrick, Adventure, 2010s
+Jungle Book, Neel Sethi, Adventure, 2010s
+The Secret Garden, Dixie Egerickx, Adventure, 2020s
+A Dog's Journey, Josh Gad, Adventure, 2010s
+The Call of the Wild, Harrison Ford, Adventure, 2020s
+Ad Astra, Brad Pitt, Adventure, 2010s
+Dune, Timothée Chalamet, Adventure, 2020s
+Schindler's List,Liam Neeson,Biography,90s
+A Beautiful Mind,Russell Crowe,Biography,2000s
+The Pursuit of Happyness,Will Smith,Biography,2000s
+The Theory of Everything,Eddie Redmayne,Biography,2010s
+The Social Network,Jesse Eisenberg,Biography,2010s
+Bohemian Rhapsody,Rami Malek,Biography,2010s
+Goodfellas,Ray Liotta,Biography,90s
+The Wolf of Wall Street,Leonardo DiCaprio,Biography,2010s
+Catch Me If You Can,Leonardo DiCaprio,Biography,2000s
+Lincoln,Daniel Day-Lewis,Biography,2010s
+The King's Speech,Colin Firth,Biography,2010s
+Braveheart,Mel Gibson,Biography,90s
+Gandhi,Ben Kingsley,Biography,80s
+Raging Bull,Robert De Niro,Biography,80s
+Ray,Jamie Foxx,Biography,2000s
+Walk the Line,Joaquin Phoenix,Biography,2000s
+12 Years a Slave,Chiwetel Ejiofor,Biography,2010s
+Erin Brockovich,Julia Roberts,Biography,2000s
+Hidden Figures,Taraji P. Henson,Biography,2010s
+The Imitation Game,Benedict Cumberbatch,Biography,2010s
+Selma,David Oyelowo,Biography,2010s
+Into the Wild,Emile Hirsch,Biography,2000s
+American Sniper,Bradley Cooper,Biography,2010s
+Steve Jobs,Michael Fassbender,Biography,2010s
+Capote,Philip Seymour Hoffman,Biography,2000s
+The Aviator,Leonardo DiCaprio,Biography,2000s
+Malcolm X,Denzel Washington,Biography,90s
+The Untouchables,Kevin Costner,Biography,80s
+Blow,Johnny Depp,Biography,2000s
+Moneyball,Brad Pitt,Biography,2010s
+Ali,Will Smith,Biography,2000s
+The Pianist,Adrien Brody,Biography,2000s
+Rocketman,Taron Egerton,Biography,2010s
+Judy,Renée Zellweger,Biography,2010s
+Straight Outta Compton,O'Shea Jackson Jr.,Biography,2010s
+Milk,Sean Penn,Biography,2000s
+Patton,George C. Scott,Biography,70s
+The Iron Lady,Meryl Streep,Biography,2010s
+My Left Foot,Daniel Day-Lewis,Biography,80s
+Frida,Salma Hayek,Biography,2000s
+Dallas Buyers Club,Matthew McConaughey,Biography,2010s
+Hotel Rwanda,Don Cheadle,Biography,2000s
+The Big Short,Christian Bale,Biography,2010s
+Hacksaw Ridge,Andrew Garfield,Biography,2010s
+The Insider,Russell Crowe,Biography,90s
+Man on the Moon,Jim Carrey,Biography,90s
+The Danish Girl,Eddie Redmayne,Biography,2010s
+Ford v Ferrari,Matt Damon,Biography,2010s
+Spartacus,Kirk Douglas,Biography,60s
+Gorillas in the Mist,Sigourney Weaver,Biography,80s
+Schindler's List,Liam Neeson,Biography,90s
+A Beautiful Mind,Russell Crowe,Biography,2000s
+The Pursuit of Happyness,Will Smith,Biography,2000s
+The Theory of Everything,Eddie Redmayne,Biography,2010s
+The Social Network,Jesse Eisenberg,Biography,2010s
+Bohemian Rhapsody,Rami Malek,Biography,2010s
+Goodfellas,Ray Liotta,Biography,90s
+The Wolf of Wall Street,Leonardo DiCaprio,Biography,2010s
+Catch Me If You Can,Leonardo DiCaprio,Biography,2000s
+Lincoln,Daniel Day-Lewis,Biography,2010s
+The King's Speech,Colin Firth,Biography,2010s
+Braveheart,Mel Gibson,Biography,90s
+Gandhi,Ben Kingsley,Biography,80s
+Raging Bull,Robert De Niro,Biography,80s
+Ray,Jamie Foxx,Biography,2000s
+Walk the Line,Joaquin Phoenix,Biography,2000s
+12 Years a Slave,Chiwetel Ejiofor,Biography,2010s
+Erin Brockovich,Julia Roberts,Biography,2000s
+Hidden Figures,Taraji P. Henson,Biography,2010s
+The Imitation Game,Benedict Cumberbatch,Biography,2010s
+Selma,David Oyelowo,Biography,2010s
+Into the Wild,Emile Hirsch,Biography,2000s
+American Sniper,Bradley Cooper,Biography,2010s
+Steve Jobs,Michael Fassbender,Biography,2010s
+Capote,Philip Seymour Hoffman,Biography,2000s
+The Aviator,Leonardo DiCaprio,Biography,2000s
+Malcolm X,Denzel Washington,Biography,90s
+The Untouchables,Kevin Costner,Biography,80s
+Blow,Johnny Depp,Biography,2000s
+Moneyball,Brad Pitt,Biography,2010s
+Ali,Will Smith,Biography,2000s
+The Pianist,Adrien Brody,Biography,2000s
+Rocketman,Taron Egerton,Biography,2010s
+Judy,Renée Zellweger,Biography,2010s
+Straight Outta Compton,O'Shea Jackson Jr.,Biography,2010s
+Milk,Sean Penn,Biography,2000s
+Patton,George C. Scott,Biography,70s
+The Iron Lady,Meryl Streep,Biography,2010s
+My Left Foot,Daniel Day-Lewis,Biography,80s
+Frida,Salma Hayek,Biography,2000s
+Dallas Buyers Club,Matthew McConaughey,Biography,2010s
+Hotel Rwanda,Don Cheadle,Biography,2000s
+The Big Short,Christian Bale,Biography,2010s
+Hacksaw Ridge,Andrew Garfield,Biography,2010s
+The Insider,Russell Crowe,Biography,90s
+Man on the Moon,Jim Carrey,Biography,90s
+The Danish Girl,Eddie Redmayne,Biography,2010s
+Ford v Ferrari,Matt Damon,Biography,2010s
+Spartacus,Kirk Douglas,Biography,60s
+Gorillas in the Mist,Sigourney Weaver,Biography,80s
+The Doors,Val Kilmer,Biography,90s
+Lawrence of Arabia,Peter O'Toole,Biography,60s
+The Last Emperor,John Lone,Biography,80s
+Malcolm X,Denzel Washington,Biography,90s
+The People vs. Larry Flynt,Woody Harrelson,Biography,90s
+Ed Wood,Johnny Depp,Biography,90s
+Evita,Madonna,Biography,90s
+Elizabeth,Cate Blanchett,Biography,90s
+La Bamba,Lou Diamond Phillips,Biography,80s
+Chaplin,Robert Downey Jr.,Biography,90s
+The Hurricane,Denzel Washington,Biography,90s
+Lawrence of Arabia,Peter O'Toole,Biography,60s
+The Last Emperor,John Lone,Biography,80s
+Walk Hard: The Dewey Cox Story,John C. Reilly,Biography,2000s
+Milk,Sean Penn,Biography,2000s
+The Founder,Michael Keaton,Biography,2010s
+Evita,Madonna,Biography,90s
+Elizabeth,Cate Blanchett,Biography,90s
+The Motorcycle Diaries,Gael García Bernal,Biography,2000s
+My Week with Marilyn,Michelle Williams,Biography,2010s
+The Butler,Forest Whitaker,Biography,2010s
+Loving,Ruth Negga,Biography,2010s
+Mandela: Long Walk to Freedom,Idris Elba,Biography,2010s
+Jackie,Natalie Portman,Biography,2010s
+The Disaster Artist,James Franco,Biography,2010s
+The Glass Castle,Brie Larson,Biography,2010s
+The Founder,Michael Keaton,Biography,2010s
+The Immortal Life of Henrietta Lacks,Oprah Winfrey,Biography,2010s
+Invictus,Morgan Freeman,Biography,2000s
+A Dangerous Method,Michael Fassbender,Biography,2010s
+The Soloist,Robert Downey Jr.,Biography,2000s
+Temple Grandin,Claire Danes,Biography,2010s
+Veronica Guerin,Cate Blanchett,Biography,2000s
+The Queen,Helen Mirren,Biography,2000s
+The Fighter,Mark Wahlberg,Biography,2010s
+The Blind Side,Sandra Bullock,Biography,2000s
+Prefontaine,Jared Leto,Biography,90s
+Invincible,Mark Wahlberg,Biography,2000s
+The Sea Inside,Javier Bardem,Biography,2000s
+The Soloist,Robert Downey Jr.,Biography,2000s
+Temple Grandin,Claire Danes,Biography,2010s
+Veronica Guerin,Cate Blanchett,Biography,2000s
+The Queen,Helen Mirren,Biography,2000s
+The Fighter,Mark Wahlberg,Biography,2010s
+The Blind Side,Sandra Bullock,Biography,2000s
+Prefontaine,Jared Leto,Biography,90s
+Invincible,Mark Wahlberg,Biography,2000s
+The Sea Inside,Javier Bardem,Biography,2000s
+Marie Antoinette,Kirsten Dunst,Biography,2000s
+Joy,Jennifer Lawrence,Biography,2010s
+The Godfather, Marlon Brando, Crime, 70s
+Pulp Fiction, John Travolta, Crime, 90s
+The Departed, Leonardo DiCaprio, Crime, 2000s
+Goodfellas, Robert De Niro, Crime, 90s
+Heat, Al Pacino, Crime, 90s
+Scarface, Al Pacino, Crime, 80s
+Casino, Robert De Niro, Crime, 90s
+Reservoir Dogs, Harvey Keitel, Crime, 90s
+The Godfather Part II, Al Pacino, Crime, 70s
+No Country for Old Men, Javier Bardem, Crime, 2000s
+Training Day, Denzel Washington, Crime, 2000s
+L.A. Confidential, Kevin Spacey, Crime, 90s
+The Usual Suspects, Kevin Spacey, Crime, 90s
+Se7en, Brad Pitt, Crime, 90s
+The Silence of the Lambs, Anthony Hopkins, Crime, 90s
+Drive, Ryan Gosling, Crime, 2010s
+American Gangster, Denzel Washington, Crime, 2000s
+Mystic River, Sean Penn, Crime, 2000s
+City of God, Alexandre Rodrigues, Crime, 2000s
+The Departed, Jack Nicholson, Crime, 2000s
+The Dark Knight, Christian Bale, Crime, 2000s
+A Clockwork Orange, Malcolm McDowell, Crime, 70s
+Leon: The Professional, Jean Reno, Crime, 90s
+Sin City, Mickey Rourke, Crime, 2000s
+Memento, Guy Pearce, Crime, 2000s
+Oldboy, Min-sik Choi, Crime, 2000s
+True Romance, Christian Slater, Crime, 90s
+Eastern Promises, Viggo Mortensen, Crime, 2000s
+The Town, Ben Affleck, Crime, 2010s
+Kill Bill: Vol. 1, Uma Thurman, Crime, 2000s
+Snatch, Jason Statham, Crime, 2000s
+Layer Cake, Daniel Craig, Crime, 2000s
+Heat, Robert De Niro, Crime, 90s
+Infernal Affairs, Andy Lau, Crime, 2000s
+Zodiac, Jake Gyllenhaal, Crime, 2000s
+American History X, Edward Norton, Crime, 90s
+Collateral, Tom Cruise, Crime, 2000s
+The French Connection, Gene Hackman, Crime, 70s
+Good Time, Robert Pattinson, Crime, 2010s
+The Departed, Matt Damon, Crime, 2000s
+Prisoners, Hugh Jackman, Crime, 2010s
+Donnie Brasco, Johnny Depp, Crime, 90s
+Blow, Johnny Depp, Crime, 2000s
+The Boondock Saints, Willem Dafoe, Crime, 90s
+Drive, Carey Mulligan, Crime, 2010s
+Bonnie and Clyde, Warren Beatty, Crime, 60s
+The Place Beyond the Pines, Ryan Gosling, Crime, 2010s
+Baby Driver, Ansel Elgort, Crime, 2010s
+American Psycho, Christian Bale, Crime, 2000s
+A Bronx Tale, Robert De Niro, Crime, 90s
+The Godfather, Marlon Brando, Crime, 70s
+Pulp Fiction, John Travolta, Crime, 90s
+The Departed, Leonardo DiCaprio, Crime, 2000s
+Goodfellas, Robert De Niro, Crime, 90s
+Heat, Al Pacino, Crime, 90s
+Scarface, Al Pacino, Crime, 80s
+Casino, Robert De Niro, Crime, 90s
+Reservoir Dogs, Harvey Keitel, Crime, 90s
+The Godfather Part II, Al Pacino, Crime, 70s
+No Country for Old Men, Javier Bardem, Crime, 2000s
+Training Day, Denzel Washington, Crime, 2000s
+L.A. Confidential, Kevin Spacey, Crime, 90s
+The Usual Suspects, Kevin Spacey, Crime, 90s
+Se7en, Brad Pitt, Crime, 90s
+The Silence of the Lambs, Anthony Hopkins, Crime, 90s
+Drive, Ryan Gosling, Crime, 2010s
+American Gangster, Denzel Washington, Crime, 2000s
+Mystic River, Sean Penn, Crime, 2000s
+City of God, Alexandre Rodrigues, Crime, 2000s
+The Departed, Jack Nicholson, Crime, 2000s
+The Dark Knight, Christian Bale, Crime, 2000s
+A Clockwork Orange, Malcolm McDowell, Crime, 70s
+Leon: The Professional, Jean Reno, Crime, 90s
+Sin City, Mickey Rourke, Crime, 2000s
+Memento, Guy Pearce, Crime, 2000s
+Oldboy, Min-sik Choi, Crime, 2000s
+True Romance, Christian Slater, Crime, 90s
+Eastern Promises, Viggo Mortensen, Crime, 2000s
+The Town, Ben Affleck, Crime, 2010s
+Kill Bill: Vol. 1, Uma Thurman, Crime, 2000s
+Snatch, Jason Statham, Crime, 2000s
+Layer Cake, Daniel Craig, Crime, 2000s
+Heat, Robert De Niro, Crime, 90s
+Infernal Affairs, Andy Lau, Crime, 2000s
+Zodiac, Jake Gyllenhaal, Crime, 2000s
+American History X, Edward Norton, Crime, 90s
+Collateral, Tom Cruise, Crime, 2000s
+The French Connection, Gene Hackman, Crime, 70s
+Good Time, Robert Pattinson, Crime, 2010s
+The Departed, Matt Damon, Crime, 2000s
+Prisoners, Hugh Jackman, Crime, 2010s
+Donnie Brasco, Johnny Depp, Crime, 90s
+Blow, Johnny Depp, Crime, 2000s
+The Boondock Saints, Willem Dafoe, Crime, 90s
+Drive, Carey Mulligan, Crime, 2010s
+Bonnie and Clyde, Warren Beatty, Crime, 60s
+The Place Beyond the Pines, Ryan Gosling, Crime, 2010s
+Baby Driver, Ansel Elgort, Crime, 2010s
+American Psycho, Christian Bale, Crime, 2000s
+A Bronx Tale, Robert De Niro, Crime, 90s
+The Killing, Sterling Hayden, Crime, 50s
+Point Blank, Lee Marvin, Crime, 60s
+The French Connection, Gene Hackman, Crime, 70s
+Mean Streets, Robert De Niro, Crime, 70s
+Scarface, Al Pacino, Crime, 80s
+Blood Simple, John Getz, Crime, 80s
+Miller's Crossing, Gabriel Byrne, Crime, 90s
+Heat, Al Pacino, Crime, 90s
+Lock, Stock and Two Smoking Barrels, Jason Statham, Crime, 90s
+The Boondock Saints, Willem Dafoe, Crime, 90s
+Ronin, Robert De Niro, Crime, 90s
+Snatch, Jason Statham, Crime, 2000s
+Layer Cake, Daniel Craig, Crime, 2000s
+Inside Man, Denzel Washington, Crime, 2000s
+Gone Baby Gone, Casey Affleck, Crime, 2000s
+The Departed, Jack Nicholson, Crime, 2000s
+Gangs of New York, Leonardo DiCaprio, Crime, 2000s
+Eastern Promises, Viggo Mortensen, Crime, 2000s
+Collateral, Tom Cruise, Crime, 2000s
+Training Day, Denzel Washington, Crime, 2000s
+The Italian Job, Mark Wahlberg, Crime, 2000s
+Ocean's Eleven, George Clooney, Crime, 2000s
+Public Enemies, Johnny Depp, Crime, 2000s
+The Town, Ben Affleck, Crime, 2010s
+Prisoners, Hugh Jackman, Crime, 2010s
+The Girl with the Dragon Tattoo, Daniel Craig, Crime, 2010s
+Hell or High Water, Chris Pine, Crime, 2010s
+Sicario, Emily Blunt, Crime, 2010s
+Wind River, Jeremy Renner, Crime, 2010s
+John Wick, Keanu Reeves, Crime, 2010s
+Drive, Ryan Gosling, Crime, 2010s
+Baby Driver, Ansel Elgort, Crime, 2010s
+The Nice Guys, Russell Crowe, Crime, 2010s
+Out of Sight, George Clooney, Crime, 90s
+Heat, Al Pacino, Crime, 90s
+The Score, Robert De Niro, Crime, 2000s
+The Town, Ben Affleck, Crime, 2010s
+The Place Beyond the Pines, Ryan Gosling, Crime, 2010s
+The Drop, Tom Hardy, Crime, 2010s
+Savages, Taylor Kitsch, Crime, 2010s
+Den of Thieves, Gerard Butler, Crime, 2010s
+Logan Lucky, Channing Tatum, Crime, 2010s
+Widows, Viola Davis, Crime, 2010s
+The Equalizer, Denzel Washington, Crime, 2010s
+The Lincoln Lawyer, Matthew McConaughey, Crime, 2010s
+Hell or High Water, Chris Pine, Crime, 2010s
+You Were Never Really Here, Joaquin Phoenix, Crime, 2010s
+Cold Pursuit, Liam Neeson, Crime, 2010s
+Dragged Across Concrete, Mel Gibson, Crime, 2010s
+The Irishman, Robert De Niro, Crime, 2010s
+The Shawshank Redemption, Tim Robbins, Drama, 90s
+Schindler's List, Liam Neeson, Drama, 90s
+Forrest Gump, Tom Hanks, Drama, 90s
+The Godfather, Marlon Brando, Drama, 70s
+The Dark Knight, Christian Bale, Drama, 2000s
+Good Will Hunting, Robin Williams, Drama, 90s
+A Beautiful Mind, Russell Crowe, Drama, 2000s
+The Green Mile, Tom Hanks, Drama, 90s
+Titanic, Leonardo DiCaprio, Drama, 90s
+American Beauty, Kevin Spacey, Drama, 90s
+The Pianist, Adrien Brody, Drama, 2000s
+Requiem for a Dream, Ellen Burstyn, Drama, 2000s
+Gladiator, Russell Crowe, Drama, 2000s
+Saving Private Ryan, Tom Hanks, Drama, 90s
+The Pursuit of Happyness, Will Smith, Drama, 2000s
+The Silence of the Lambs, Jodie Foster, Drama, 90s
+The Departed, Leonardo DiCaprio, Drama, 2000s
+The Truman Show, Jim Carrey, Drama, 90s
+Million Dollar Baby, Hilary Swank, Drama, 2000s
+Cast Away, Tom Hanks, Drama, 2000s
+Dallas Buyers Club, Matthew McConaughey, Drama, 2010s
+The King's Speech, Colin Firth, Drama, 2010s
+A Few Good Men, Tom Cruise, Drama, 90s
+The Great Gatsby, Leonardo DiCaprio, Drama, 2010s
+The Revenant, Leonardo DiCaprio, Drama, 2010s
+12 Years a Slave, Chiwetel Ejiofor, Drama, 2010s
+The Help, Emma Stone, Drama, 2010s
+Boyhood, Ellar Coltrane, Drama, 2010s
+Room, Brie Larson, Drama, 2010s
+Manchester by the Sea, Casey Affleck, Drama, 2010s
+Spotlight, Mark Ruffalo, Drama, 2010s
+Whiplash, Miles Teller, Drama, 2010s
+Gone Girl, Ben Affleck, Drama, 2010s
+The Social Network, Jesse Eisenberg, Drama, 2010s
+The Descendants, George Clooney, Drama, 2010s
+The Curious Case of Benjamin Button, Brad Pitt, Drama, 2000s
+Mystic River, Sean Penn, Drama, 2000s
+La La Land, Ryan Gosling, Drama, 2010s
+The Artist, Jean Dujardin, Drama, 2010s
+Moonlight, Trevante Rhodes, Drama, 2010s
+Her, Joaquin Phoenix, Drama, 2010s
+The Aviator, Leonardo DiCaprio, Drama, 2000s
+Birdman, Michael Keaton, Drama, 2010s
+The Grand Budapest Hotel, Ralph Fiennes, Drama, 2010s
+Black Swan, Natalie Portman, Drama, 2010s
+The Fighter, Mark Wahlberg, Drama, 2010s
+Room, Jacob Tremblay, Drama, 2010s
+Captain Phillips, Tom Hanks, Drama, 2010s
+Argo, Ben Affleck, Drama, 2010s
+Silver Linings Playbook, Bradley Cooper, Drama, 2010s
+One Flew Over the Cuckoo's Nest, Jack Nicholson, Drama, 1970s
+The Shawshank Redemption, Tim Robbins, Drama, 1990s
+Fight Club, Edward Norton, Drama, 1990s
+The Godfather: Part II, Al Pacino, Drama, 1970s
+12 Angry Men, Henry Fonda, Drama, 1950s
+To Kill a Mockingbird, Gregory Peck, Drama, 1960s
+Pulp Fiction, John Travolta, Drama, 1990s
+The Intouchables, François Cluzet, Drama, 2010s
+The Prestige, Hugh Jackman, Drama, 2000s
+There Will Be Blood, Daniel Day-Lewis, Drama, 2000s
+Amadeus, F. Murray Abraham, Drama, 1980s
+No Country for Old Men, Javier Bardem, Drama, 2000s
+Slumdog Millionaire, Dev Patel, Drama, 2000s
+Django Unchained, Jamie Foxx, Drama, 2010s
+The Lives of Others, Ulrich Mühe, Drama, 2000s
+The Imitation Game, Benedict Cumberbatch, Drama, 2010s
+Lion, Dev Patel, Drama, 2010s
+Hidden Figures, Taraji P. Henson, Drama, 2010s
+The Theory of Everything, Eddie Redmayne, Drama, 2010s
+The Big Short, Christian Bale, Drama, 2010s
+Brooklyn, Saoirse Ronan, Drama, 2010s
+Still Alice, Julianne Moore, Drama, 2010s
+Blue Valentine, Ryan Gosling, Drama, 2010s
+Prisoners, Hugh Jackman, Drama, 2010s
+Arrival, Amy Adams, Drama, 2010s
+Hacksaw Ridge, Andrew Garfield, Drama, 2010s
+The Shape of Water, Sally Hawkins, Drama, 2010s
+BlacKkKlansman, John David Washington, Drama, 2010s
+Green Book, Viggo Mortensen, Drama, 2010s
+Marriage Story, Adam Driver, Drama, 2010s
+Jojo Rabbit, Roman Griffin Davis, Drama, 2010s
+Ford v Ferrari, Christian Bale, Drama, 2010s
+1917, George MacKay, Drama, 2010s
+The Irishman, Robert De Niro, Drama, 2010s
+Parasite, Song Kang-ho, Drama, 2010s
+Little Women, Saoirse Ronan, Drama, 2010s
+Lady Bird, Saoirse Ronan, Drama, 2010s
+Call Me by Your Name, Timothée Chalamet, Drama, 2010s
+The Florida Project, Willem Dafoe, Drama, 2010s
+Three Billboards Outside Ebbing, Missouri, Frances McDormand, Drama, 2010s
+Phantom Thread, Daniel Day-Lewis, Drama, 2010s
+A Star Is Born, Bradley Cooper, Drama, 2010s
+The Handmaiden, Kim Min-hee, Drama, 2010s
+Roma, Yalitza Aparicio, Drama, 2010s
+Portrait of a Lady on Fire, Noémie Merlant, Drama, 2010s
+Waves, Kelvin Harrison Jr., Drama, 2010s
+Uncut Gems, Adam Sandler, Drama, 2010s
+The Farewell, Awkwafina, Drama, 2010s
+Knives Out, Daniel Craig, Drama, 2010s
+The Lighthouse, Robert Pattinson, Drama, 2010s
+Shoplifters, Lily Franky, Drama, 2010s
+First Reformed, Ethan Hawke, Drama, 2010s
+If Beale Street Could Talk, KiKi Layne, Drama, 2010s
+The Ballad of Buster Scruggs, Tim Blake Nelson, Drama, 2010s
+The Favourite, Olivia Colman, Drama, 2010s
+First Man, Ryan Gosling, Drama, 2010s
+You Were Never Really Here, Joaquin Phoenix, Drama, 2010s
+Beasts of No Nation, Idris Elba, Drama, 2010s
+Bird Box, Sandra Bullock, Drama, 2010s
+Mudbound, Carey Mulligan, Drama, 2010s
+The Lobster, Colin Farrell, Drama, 2010s
+The Danish Girl, Eddie Redmayne, Drama, 2010s
+The Hateful Eight, Samuel L. Jackson, Drama, 2010s
+Creed, Michael B. Jordan, Drama, 2010s
+Steve Jobs, Michael Fassbender, Drama, 2010s
+Carol, Cate Blanchett, Drama, 2010s
+Selma, David Oyelowo, Drama, 2010s
+Brooklyn, Saoirse Ronan, Drama, 2010s
+Bridge of Spies, Tom Hanks, Drama, 2010s
+Room, Brie Larson, Drama, 2010s
+Spotlight, Mark Ruffalo, Drama, 2010s
+Sicario, Emily Blunt, Drama, 2010s
+Nightcrawler, Jake Gyllenhaal, Drama, 2010s
+Foxcatcher, Steve Carell, Drama, 2010s
+The Grand Budapest Hotel, Ralph Fiennes, Drama, 2010s
+12 Years a Slave, Chiwetel Ejiofor, Drama, 2010s
+Gravity, Sandra Bullock, Drama, 2010s
+The Wolf of Wall Street, Leonardo DiCaprio, Drama, 2010s
+Her, Joaquin Phoenix, Drama, 2010s
+Blue Jasmine, Cate Blanchett, Drama, 2010s
+Captain Phillips, Tom Hanks, Drama, 2010s
+Argo, Ben Affleck, Drama, 2010s
+Silver Linings Playbook, Bradley Cooper, Drama, 2010s
+Life of Pi, Suraj Sharma, Drama, 2010s
+The Tree of Life, Brad Pitt, Drama, 2010s
+Moneyball, Brad Pitt, Drama, 2010s
+The Help, Emma Stone, Drama, 2010s
+The Fighter, Mark Wahlberg, Drama, 2010s
+The Town, Ben Affleck, Drama, 2010s
+Precious, Gabourey Sidibe, Drama, 2000s
+Revolutionary Road, Leonardo DiCaprio, Drama, 2000s
+Changeling, Angelina Jolie, Drama, 2000s
+Atonement, Keira Knightley, Drama, 2000s
+No Country for Old Men, Javier Bardem, Drama, 2000s
+The Lives of Others, Ulrich Mühe, Drama, 2000s
+Pan's Labyrinth, Ivana Baquero, Drama, 2000s
+The Departed, Leonardo DiCaprio, Drama, 2000s
+Brokeback Mountain, Heath Ledger, Drama, 2000s
+Hotel Rwanda, Don Cheadle, Drama, 2000s
+The Lord of the Rings: The Fellowship of the Ring, Elijah Wood, Fantasy, 2000s
+The Lord of the Rings: The Return of the King, Viggo Mortensen, Fantasy, 2000s
+The Lord of the Rings: The Two Towers, Ian McKellen, Fantasy, 2000s
+Harry Potter and the Sorcerer's Stone, Daniel Radcliffe, Fantasy, 2000s
+Harry Potter and the Deathly Hallows – Part 2, Emma Watson, Fantasy, 2010s
+Harry Potter and the Prisoner of Azkaban, Rupert Grint, Fantasy, 2000s
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Tilda Swinton, Fantasy, 2000s
+Stardust, Charlie Cox, Fantasy, 2000s
+Pan's Labyrinth, Ivana Baquero, Fantasy, 2000s
+The Princess Bride, Cary Elwes, Fantasy, 80s
+Edward Scissorhands, Johnny Depp, Fantasy, 90s
+The Hobbit: An Unexpected Journey, Martin Freeman, Fantasy, 2010s
+The Hobbit: The Desolation of Smaug, Ian McKellen, Fantasy, 2010s
+The Hobbit: The Battle of the Five Armies, Richard Armitage, Fantasy, 2010s
+The Shape of Water, Sally Hawkins, Fantasy, 2010s
+Big Fish, Ewan McGregor, Fantasy, 2000s
+Maleficent, Angelina Jolie, Fantasy, 2010s
+King Kong, Naomi Watts, Fantasy, 2000s
+Avatar, Sam Worthington, Fantasy, 2000s
+Pirates of the Caribbean: The Curse of the Black Pearl, Johnny Depp, Fantasy, 2000s
+The Witch, Anya Taylor-Joy, Fantasy, 2010s
+Jumanji, Robin Williams, Fantasy, 90s
+The Golden Compass, Dakota Blue Richards, Fantasy, 2000s
+Labyrinth, David Bowie, Fantasy, 80s
+The NeverEnding Story, Noah Hathaway, Fantasy, 80s
+The Chronicles of Narnia: Prince Caspian, Ben Barnes, Fantasy, 2000s
+Willow, Warwick Davis, Fantasy, 80s
+Conan the Barbarian, Arnold Schwarzenegger, Fantasy, 80s
+The Dark Crystal, Jim Henson, Fantasy, 80s
+The Mummy, Brendan Fraser, Fantasy, 90s
+Ladyhawke, Rutger Hauer, Fantasy, 80s
+Enchanted, Amy Adams, Fantasy, 2000s
+The City of Lost Children, Ron Perlman, Fantasy, 90s
+Time Bandits, John Cleese, Fantasy, 80s
+Beetlejuice, Alec Baldwin, Fantasy, 80s
+The Chronicles of Narnia: The Voyage of the Dawn Treader, Georgie Henley, Fantasy, 2010s
+Dragonheart, Dennis Quaid, Fantasy, 90s
+Clash of the Titans, Sam Worthington, Fantasy, 2010s
+The Spiderwick Chronicles, Freddie Highmore, Fantasy, 2000s
+Eragon, Ed Speleers, Fantasy, 2000s
+The Secret of Nimh, Elizabeth Hartman, Fantasy, 80s
+The BFG, Mark Rylance, Fantasy, 2010s
+The Witches, Anjelica Huston, Fantasy, 90s
+The Adventures of Baron Munchausen, John Neville, Fantasy, 80s
+Excalibur, Nigel Terry, Fantasy, 80s
+Legend, Tom Cruise, Fantasy, 80s
+Conan the Destroyer, Arnold Schwarzenegger, Fantasy, 80s
+The Sword in the Stone, Rickie Sorensen, Fantasy, 60s
+Highlander, Christopher Lambert, Fantasy, 80s
+Hansel & Gretel: Witch Hunters, Jeremy Renner, Fantasy, 2010s
+The Usual Suspects, Kevin Spacey, Mystery, 90s
+Seven, Brad Pitt, Mystery, 90s
+Memento, Guy Pearce, Mystery, 2000s
+Gone Girl, Ben Affleck, Mystery, 2010s
+Zodiac, Jake Gyllenhaal, Mystery, 2000s
+Prisoners, Hugh Jackman, Mystery, 2010s
+The Girl with the Dragon Tattoo, Daniel Craig, Mystery, 2010s
+Shutter Island, Leonardo DiCaprio, Mystery, 2010s
+The Sixth Sense, Bruce Willis, Mystery, 90s
+Mystic River, Sean Penn, Mystery, 2000s
+The Prestige, Hugh Jackman, Mystery, 2000s
+Chinatown, Jack Nicholson, Mystery, 70s
+The Others, Nicole Kidman, Mystery, 2000s
+Primal Fear, Richard Gere, Mystery, 90s
+Sherlock Holmes, Robert Downey Jr., Mystery, 2000s
+Rear Window, James Stewart, Mystery, 50s
+The Maltese Falcon, Humphrey Bogart, Mystery, 40s
+The Girl on the Train, Emily Blunt, Mystery, 2010s
+The Secret in Their Eyes, Ricardo Darín, Mystery, 2000s
+Knives Out, Daniel Craig, Mystery, 2010s
+Brick, Joseph Gordon-Levitt, Mystery, 2000s
+The Vanishing, Bernard-Pierre Donnadieu, Mystery, 80s
+Insomnia, Al Pacino, Mystery, 2000s
+Mulholland Drive, Naomi Watts, Mystery, 2000s
+The Ghost Writer, Ewan McGregor, Mystery, 2010s
+L.A. Confidential, Kevin Spacey, Mystery, 90s
+Identity, John Cusack, Mystery, 2000s
+The Conversation, Gene Hackman, Mystery, 70s
+Zodiac, Mark Ruffalo, Mystery, 2000s
+The Machinist, Christian Bale, Mystery, 2000s
+The Game, Michael Douglas, Mystery, 90s
+The Bone Collector, Denzel Washington, Mystery, 90s
+Side Effects, Rooney Mara, Mystery, 2010s
+A Simple Favor, Anna Kendrick, Mystery, 2010s
+Tell No One, François Cluzet, Mystery, 2000s
+The Girl with the Dragon Tattoo, Noomi Rapace, Mystery, 2000s
+Dark Places, Charlize Theron, Mystery, 2010s
+Before I Go to Sleep, Nicole Kidman, Mystery, 2010s
+The Invisible Guest, Mario Casas, Mystery, 2010s
+The Orphanage, Belén Rueda, Mystery, 2000s
+The Chaser, Kim Yoon-seok, Mystery, 2000s
+Tinker Tailor Soldier Spy, Gary Oldman, Mystery, 2010s
+Memories of Murder, Song Kang-ho, Mystery, 2000s
+The Man Who Knew Too Much, James Stewart, Mystery, 50s
+Secret Window, Johnny Depp, Mystery, 2000s
+The Prestige, Christian Bale, Mystery, 2000s
+Gone Baby Gone, Casey Affleck, Mystery, 2000s
+The Gift, Jason Bateman, Mystery, 2010s
+Prisoners, Jake Gyllenhaal, Mystery, 2010s
+The Illusionist, Edward Norton, Mystery, 2000s
+The Notebook, Ryan Gosling, Romance, 2000s
+Titanic, Leonardo DiCaprio, Romance, 90s
+La La Land, Ryan Gosling, Romance, 2010s
+Pride and Prejudice, Keira Knightley, Romance, 2000s
+Casablanca, Humphrey Bogart, Romance, 40s
+Before Sunrise, Ethan Hawke, Romance, 90s
+A Walk to Remember, Shane West, Romance, 2000s
+Eternal Sunshine of the Spotless Mind, Jim Carrey, Romance, 2000s
+Silver Linings Playbook, Bradley Cooper, Romance, 2010s
+The Fault in Our Stars, Shailene Woodley, Romance, 2010s
+500 Days of Summer, Joseph Gordon-Levitt, Romance, 2000s
+The Princess Bride, Cary Elwes, Romance, 80s
+Brokeback Mountain, Heath Ledger, Romance, 2000s
+About Time, Domhnall Gleeson, Romance, 2010s
+Notting Hill, Julia Roberts, Romance, 90s
+Moulin Rouge!, Ewan McGregor, Romance, 2000s
+La La Land, Emma Stone, Romance, 2010s
+The Shape of Water, Sally Hawkins, Romance, 2010s
+Crazy, Stupid, Love., Steve Carell, Romance, 2010s
+Dirty Dancing, Patrick Swayze, Romance, 80s
+The Before Trilogy, Ethan Hawke, Romance, 90s-2010s
+The Notebook, Rachel McAdams, Romance, 2000s
+Blue Valentine, Ryan Gosling, Romance, 2010s
+Her, Joaquin Phoenix, Romance, 2010s
+Atonement, Keira Knightley, Romance, 2000s
+Pride and Prejudice, Colin Firth, Romance, 90s
+Amélie, Audrey Tautou, Romance, 2000s
+Before Midnight, Ethan Hawke, Romance, 2010s
+The Time Traveler's Wife, Rachel McAdams, Romance, 2000s
+Punch-Drunk Love, Adam Sandler, Romance, 2000s
+10 Things I Hate About You, Heath Ledger, Romance, 90s
+The Proposal, Sandra Bullock, Romance, 2000s
+Love Actually, Hugh Grant, Romance, 2000s
+Serendipity, John Cusack, Romance, 2000s
+Sleepless in Seattle, Tom Hanks, Romance, 90s
+The Princess Diaries, Anne Hathaway, Romance, 2000s
+When Harry Met Sally..., Billy Crystal, Romance, 80s
+The Holiday, Kate Winslet, Romance, 2000s
+50 First Dates, Adam Sandler, Romance, 2000s
+Ghost, Patrick Swayze, Romance, 90s
+Amour, Jean-Louis Trintignant, Romance, 2010s
+Bridget Jones's Diary, Renée Zellweger, Romance, 2000s
+Before Sunset, Ethan Hawke, Romance, 2000s
+The Vow, Rachel McAdams, Romance, 2010s
+An Officer and a Gentleman, Richard Gere, Romance, 80s
+The Fault in Our Stars, Ansel Elgort, Romance, 2010s
+Forgetting Sarah Marshall, Jason Segel, Romance, 2000s
+About Time, Rachel McAdams, Romance, 2010s
+The Bridges of Madison County, Clint Eastwood, Romance, 90s
+Blue Is the Warmest Color, Léa Seydoux, Romance, 2010s
+Blade Runner, Harrison Ford, Sci-Fi, 80s
+Inception, Leonardo DiCaprio, Sci-Fi, 2010s
+The Matrix, Keanu Reeves, Sci-Fi, 90s
+Interstellar, Matthew McConaughey, Sci-Fi, 2010s
+Star Wars: Episode IV - A New Hope, Mark Hamill, Sci-Fi, 70s
+The Terminator, Arnold Schwarzenegger, Sci-Fi, 80s
+2001: A Space Odyssey, Keir Dullea, Sci-Fi, 60s
+Alien, Sigourney Weaver, Sci-Fi, 70s
+The Fifth Element, Bruce Willis, Sci-Fi, 90s
+Jurassic Park, Sam Neill, Sci-Fi, 90s
+E.T. the Extra-Terrestrial, Henry Thomas, Sci-Fi, 80s
+Avatar, Sam Worthington, Sci-Fi, 2000s
+The Martian, Matt Damon, Sci-Fi, 2010s
+Minority Report, Tom Cruise, Sci-Fi, 2000s
+The Matrix Reloaded, Keanu Reeves, Sci-Fi, 2000s
+District 9, Sharlto Copley, Sci-Fi, 2000s
+Arrival, Amy Adams, Sci-Fi, 2010s
+Guardians of the Galaxy, Chris Pratt, Sci-Fi, 2010s
+Mad Max: Fury Road, Tom Hardy, Sci-Fi, 2010s
+The Day the Earth Stood Still, Keanu Reeves, Sci-Fi, 2000s
+Gravity, Sandra Bullock, Sci-Fi, 2010s
+Back to the Future, Michael J. Fox, Sci-Fi, 80s
+The Abyss, Ed Harris, Sci-Fi, 80s
+Close Encounters of the Third Kind, Richard Dreyfuss, Sci-Fi, 70s
+Blade Runner 2049, Ryan Gosling, Sci-Fi, 2010s
+The Truman Show, Jim Carrey, Sci-Fi, 90s
+Ex Machina, Alicia Vikander, Sci-Fi, 2010s
+The Hunger Games, Jennifer Lawrence, Sci-Fi, 2010s
+Ghost in the Shell, Scarlett Johansson, Sci-Fi, 2010s
+The Terminator 2: Judgment Day, Arnold Schwarzenegger, Sci-Fi, 90s
+The War of the Worlds, Tom Cruise, Sci-Fi, 2000s
+Snowpiercer, Chris Evans, Sci-Fi, 2010s
+Star Trek, Chris Pine, Sci-Fi, 2000s
+Planet of the Apes, Charlton Heston, Sci-Fi, 60s
+Pacific Rim, Charlie Hunnam, Sci-Fi, 2010s
+The Hunger Games: Catching Fire, Jennifer Lawrence, Sci-Fi, 2010s
+Prometheus, Noomi Rapace, Sci-Fi, 2010s
+Tron, Jeff Bridges, Sci-Fi, 80s
+Dune, Kyle MacLachlan, Sci-Fi, 80s
+Starship Troopers, Casper Van Dien, Sci-Fi, 90s
+The Martian Chronicles, Rock Hudson, Sci-Fi, 80s
+A Clockwork Orange, Malcolm McDowell, Sci-Fi, 70s
+Looper, Joseph Gordon-Levitt, Sci-Fi, 2010s
+The Adjustment Bureau, Matt Damon, Sci-Fi, 2010s
+Edge of Tomorrow, Tom Cruise, Sci-Fi, 2010s
+Moon, Sam Rockwell, Sci-Fi, 2000s
+The Island, Ewan McGregor, Sci-Fi, 2000s
+A.I. Artificial Intelligence, Haley Joel Osment, Sci-Fi, 2000s
+The Martian, Mars Davis, Sci-Fi, 80s
+Star Wars: Episode V - The Empire Strikes Back, Mark Hamill, Sci-Fi, 80s
+Blade Runner, Harrison Ford, Sci-Fi, 80s
+Inception, Leonardo DiCaprio, Sci-Fi, 2010s
+The Matrix, Keanu Reeves, Sci-Fi, 90s
+Interstellar, Matthew McConaughey, Sci-Fi, 2010s
+Star Wars: Episode VI - Return of the Jedi, Mark Hamill, Sci-Fi, 80s
+Blade Runner 2049, Ryan Gosling, Sci-Fi, 2010s
+The Terminator, Arnold Schwarzenegger, Sci-Fi, 80s
+2001: A Space Odyssey, Keir Dullea, Sci-Fi, 60s
+Alien, Sigourney Weaver, Sci-Fi, 70s
+The Fifth Element, Bruce Willis, Sci-Fi, 90s
+Jurassic Park, Sam Neill, Sci-Fi, 90s
+E.T. the Extra-Terrestrial, Henry Thomas, Sci-Fi, 80s
+Avatar, Sam Worthington, Sci-Fi, 2000s
+The Martian, Matt Damon, Sci-Fi, 2010s
+Minority Report, Tom Cruise, Sci-Fi, 2000s
+The Matrix Reloaded, Keanu Reeves, Sci-Fi, 2000s
+District 9, Sharlto Copley, Sci-Fi, 2000s
+Arrival, Amy Adams, Sci-Fi, 2010s
+Guardians of the Galaxy, Chris Pratt, Sci-Fi, 2010s
+Mad Max: Fury Road, Tom Hardy, Sci-Fi, 2010s
+The Day the Earth Stood Still, Keanu Reeves, Sci-Fi, 2000s
+Gravity, Sandra Bullock, Sci-Fi, 2010s
+Back to the Future, Michael J. Fox, Sci-Fi, 80s
+The Abyss, Ed Harris, Sci-Fi, 80s
+Close Encounters of the Third Kind, Richard Dreyfuss, Sci-Fi, 70s
+The Truman Show, Jim Carrey, Sci-Fi, 90s
+Ex Machina, Alicia Vikander, Sci-Fi, 2010s
+The Hunger Games, Jennifer Lawrence, Sci-Fi, 2010s
+Ghost in the Shell, Scarlett Johansson, Sci-Fi, 2010s
+The Terminator 2: Judgment Day, Arnold Schwarzenegger, Sci-Fi, 90s
+The War of the Worlds, Tom Cruise, Sci-Fi, 2000s
+Snowpiercer, Chris Evans, Sci-Fi, 2010s
+Star Trek, Chris Pine, Sci-Fi, 2000s
+Planet of the Apes, Charlton Heston, Sci-Fi, 60s
+Pacific Rim, Charlie Hunnam, Sci-Fi, 2010s
+The Hunger Games: Catching Fire, Jennifer Lawrence, Sci-Fi, 2010s
+Prometheus, Noomi Rapace, Sci-Fi, 2010s
+Tron, Jeff Bridges, Sci-Fi, 80s
+Dune, Kyle MacLachlan, Sci-Fi, 80s
+Starship Troopers, Casper Van Dien, Sci-Fi, 90s
+The Martian Chronicles, Rock Hudson, Sci-Fi, 80s
+A Clockwork Orange, Malcolm McDowell, Sci-Fi, 70s
+Looper, Joseph Gordon-Levitt, Sci-Fi, 2010s
+The Adjustment Bureau, Matt Damon, Sci-Fi, 2010s
+Edge of Tomorrow, Tom Cruise, Sci-Fi, 2010s
+Moon, Sam Rockwell, Sci-Fi, 2000s
+The Island, Ewan McGregor, Sci-Fi, 2000s
+A.I. Artificial Intelligence, Haley Joel Osment, Sci-Fi, 2000s
+Minority Report, Harrison Ford, Sci-Fi, 2000s
+The Martian, Mars Davis, Sci-Fi, 80s
+The Hitchhiker's Guide to the Galaxy, Martin Freeman, Sci-Fi, 2000s
+AI: Artificial Intelligence, Haley Joel Osment, Sci-Fi, 2000s
+Edge of Tomorrow, Tom Cruise, Sci-Fi, 2010s
+The Fifth Element, Bruce Willis, Sci-Fi, 90s
+The Man from Earth, David Lee Smith, Sci-Fi, 2000s
+Blade Runner 2049, Ryan Gosling, Sci-Fi, 2010s
+Star Trek Into Darkness, Chris Pine, Sci-Fi, 2010s
+Annihilation, Natalie Portman, Sci-Fi, 2010s
+Minority Report, Tom Cruise, Sci-Fi, 2000s
+The Lobster, Colin Farrell, Sci-Fi, 2010s
+Children of Men, Clive Owen, Sci-Fi, 2000s
+Edge of Tomorrow, Tom Cruise, Sci-Fi, 2010s
+Her, Joaquin Phoenix, Sci-Fi, 2010s
+Interstellar, Matthew McConaughey, Sci-Fi, 2010s
+Ex Machina, Alicia Vikander, Sci-Fi, 2010s
+District 9, Sharlto Copley, Sci-Fi, 2000s
+The Prestige, Hugh Jackman, Sci-Fi, 2000s
+Moon, Sam Rockwell, Sci-Fi, 2000s
+Eternal Sunshine of the Spotless Mind, Jim Carrey, Sci-Fi, 2000s
+Annihilation, Natalie Portman, Sci-Fi, 2010s
+Serenity, Nathan Fillion, Sci-Fi, 2000s
+Coherence, Emily Baldoni, Sci-Fi, 2010s
+Donnie Darko, Jake Gyllenhaal, Sci-Fi, 2000s
+Solaris, George Clooney, Sci-Fi, 2000s
+Predestination, Ethan Hawke, Sci-Fi, 2010s
+Europa Report, Sharlto Copley, Sci-Fi, 2010s
+Source Code, Jake Gyllenhaal, Sci-Fi, 2010s
+Snowpiercer, Chris Evans, Sci-Fi, 2010s
+Sunshine, Cillian Murphy, Sci-Fi, 2000s
+Melancholia, Kirsten Dunst, Sci-Fi, 2010s
+The Fountain, Hugh Jackman, Sci-Fi, 2000s
+The Road, Viggo Mortensen, Sci-Fi, 2000s
+Cloud Atlas, Tom Hanks, Sci-Fi, 2010s
+The Host, Saoirse Ronan, Sci-Fi, 2010s
+Attack the Block, John Boyega, Sci-Fi, 2010s
+Monsters, Scoot McNairy, Sci-Fi, 2010s
+Chronicle, Dane DeHaan, Sci-Fi, 2010s
+The One I Love, Mark Duplass, Sci-Fi, 2010s
+I Origins, Michael Pitt, Sci-Fi, 2010s
+Under the Skin, Scarlett Johansson, Sci-Fi, 2010s
+Annihilation, Natalie Portman, Sci-Fi, 2010s
+Never Let Me Go, Carey Mulligan, Sci-Fi, 2010s
+Midnight Special, Michael Shannon, Sci-Fi, 2010s
+Monsters, Scoot McNairy, Sci-Fi, 2010s
+The Congress, Robin Wright, Sci-Fi, 2010s
+Another Earth, Brit Marling, Sci-Fi, 2010s
+Robot & Frank, Frank Langella, Sci-Fi, 2010s
+Safety Not Guaranteed, Aubrey Plaza, Sci-Fi, 2010s
+Upstream Color, Amy Seimetz, Sci-Fi, 2010s
+Spirited Away, Rumi Hiiragi, Anime, 2000s
+My Neighbor Totoro, Noriko Hidaka, Anime, 80s
+Princess Mononoke, Yōji Matsuda, Anime, 90s
+Akira, Mitsuo Iwata, Anime, 80s
+Neon Genesis Evangelion: The End of Evangelion, Megumi Ogata, Anime, 90s
+Your Name, Ryunosuke Kamiki, Anime, 2010s
+Grave of the Fireflies, Tsutomu Tatsumi, Anime, 80s
+Cowboy Bebop: The Movie, Kouichi Yamadera, Anime, 2000s
+Ghost in the Shell, Atsuko Tanaka, Anime, 90s
+Howl's Moving Castle, Chieko Baisho, Anime, 2000s
+Nausicaä of the Valley of the Wind, Sumi Shimamoto, Anime, 80s
+Perfect Blue, Junko Iwao, Anime, 90s
+Wolf Children, Aoi Miyazaki, Anime, 2010s
+Paprika, Megumi Hayashibara, Anime, 2000s
+The Girl Who Leapt Through Time, Riisa Naka, Anime, 2000s
+Summer Wars, Ryunosuke Kamiki, Anime, 2000s
+The Tale of the Princess Kaguya, Aki Asakura, Anime, 2010s
+Grave of the Fireflies, Tsutomu Tatsumi, Anime, 80s
+Akira, Mitsuo Iwata, Anime, 80s
+Princess Mononoke, Yōji Matsuda, Anime, 90s
+Neon Genesis Evangelion, Hideaki Anno, Anime, 90s
+Howl's Moving Castle, Chieko Baisho, Anime, 2000s
+Cowboy Bebop: The Movie, Kouichi Yamadera, Anime, 2000s
+Your Name, Ryunosuke Kamiki, Anime, 2010s
+Ghost in the Shell, Atsuko Tanaka, Anime, 90s
+Nausicaä of the Valley of the Wind, Sumi Shimamoto, Anime, 80s
+My Neighbor Totoro, Noriko Hidaka, Anime, 80s
+The Disappearance of Haruhi Suzumiya, Tomokazu Sugita, Anime, 2010s
+Grave of the Fireflies, Tsutomu Tatsumi, Anime, 80s
+Akira, Mitsuo Iwata, Anime, 80s
+The Good, the Bad and the Ugly, Clint Eastwood, Western, 60s
+Once Upon a Time in the West, Henry Fonda, Western, 60s
+Unforgiven, Clint Eastwood, Western, 90s
+Tombstone, Kurt Russell, Western, 90s
+Django Unchained, Jamie Foxx, Western, 2010s
+The Searchers, John Wayne, Western, 50s
+Butch Cassidy and the Sundance Kid, Paul Newman, Western, 60s
+High Noon, Gary Cooper, Western, 50s
+True Grit, John Wayne, Western, 60s
+The Magnificent Seven, Yul Brynner, Western, 60s
+Stagecoach, John Wayne, Western, 30s
+The Wild Bunch, William Holden, Western, 60s
+Shane, Alan Ladd, Western, 50s
+A Fistful of Dollars, Clint Eastwood, Western, 60s
+The Outlaw Josey Wales, Clint Eastwood, Western, 70s
+For a Few Dollars More, Clint Eastwood, Western, 60s
+The Assassination of Jesse James by the Coward Robert Ford, Brad Pitt, Western, 2000s
+Dances with Wolves, Kevin Costner, Western, 90s
+High Plains Drifter, Clint Eastwood, Western, 70s
+The Revenant, Leonardo DiCaprio, Western, 2010s
+3:10 to Yuma, Russell Crowe, Western, 2000s
+True Grit, Jeff Bridges, Western, 2010s
+The Man Who Shot Liberty Valance, John Wayne, Western, 60s
+The Proposition, Guy Pearce, Western, 2000s
+Once Upon a Time in the West, Charles Bronson, Western, 60s
+The Great Silence, Jean-Louis Trintignant, Western, 60s
+The Searchers, John Wayne, Western, 50s
+Butch Cassidy and the Sundance Kid, Paul Newman, Western, 60s
+High Noon, Gary Cooper, Western, 50s
