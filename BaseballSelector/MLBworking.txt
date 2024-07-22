@@ -1,0 +1,193 @@
+	
+Adley Rutschman,C,Orioles
+William Contreras,C,Brewers
+Will Smith,C,Dodgers
+Salvador Perez,C,Royals
+Logan O'Hoppe,C,Angels
+Yainer Diaz,C,Astros
+Sean Murphy,C,Braves
+Cal Raleigh,C,Mariners
+J.T. Realmuto,C,Phillies
+Jonah Heim,C,Rangers
+Willson Contreras,C,Cardinals
+Francisco Alvarez,C,Mets
+Tyler Stephenson,C,Reds
+Ryan Jeffers,C,Twins
+Shea Langeliers,C,Athletics
+Gabriel Moreno,C,Diamondbacks
+Connor Wong,C,Red Sox
+David Fry,C,Guardians
+MJ Melendez,C,Royals
+Elias Diaz,C,Rockies
+Patrick Bailey,C,Giants
+Keibert Ruiz,C,Nationals
+Mitch Garver,C,Mariners
+Danny Jansen,C,Blue Jays
+Travis d'Arnaud,C,Braves
+Luis Campusano,C,Padres
+Ben Rice,C,Yankees
+Bo Naylor,C,Guardians
+Austin Wells,C,Yankees
+Alejandro Kirk,C,Blue Jays
+Freddie Freeman,1B,Dodgers
+Bryce Harper,1B,Phillies
+Matt Olson,1B,Braves
+Vladimir Guerrero Jr.,1B,Blue Jays
+Pete Alonso,1B,Mets
+Christian Walker,1B,Diamondbacks
+Josh Naylor,1B,Guardians
+Spencer Steer,1B,Reds
+Paul Goldschmidt,1B,Cardinals
+Cody Bellinger,1B,Cubs
+Yandy Diaz,1B,Rays
+Vinnie Pasquantino,1B,Royals
+Rhys Hoskins,1B,Phillies
+Nathaniel Lowe,1B,Rangers
+Ryan Mountcastle,1B,Orioles
+Jake Cronenworth,1B,Padres
+Alec Burleson,1B,Cardinals
+Spencer Steer,1B,Reds
+Andrew Vaughn,1B,White Sox
+Justin Turner,1B,Red Sox
+Michael Busch,1B,Cubs
+Ozzie Albies,2B,Braves
+Marcus Semien,2B,Rangers
+Jose Altuve,2B,Astros
+Ketel Marte,2B,Diamondbacks
+Andres Gimenez,2B,Guardians
+Bryson Stott,2B,Phillies
+Luis Arraez,2B,Marlins
+Nico Hoerner,2B,Cubs
+Brice Turang,2B,Brewers
+Gleyber Torres,2B,Yankees
+Maikel Garcia,2B,Royals
+Ceddanne Rafaela,2B,Red Sox
+Jonathan India,2B,Reds
+Nolan Gorman,2B,Cardinals
+Luis Rengifo,2B,Angels
+Zack Gelof,2B,Athletics
+Luis Garcia,2B,Nationals
+Joey Ortiz,2B,Brewers
+Colt Keith,2B,Tigers
+Brendan Donovan,2B,Cardinals
+David Hamilton,2B,Red Sox
+Bobby Witt Jr.,SS,Royals
+Gunnar Henderson,SS,Orioles
+Elly De La Cruz,SS,Reds
+Corey Seager,SS,Rangers
+Trea Turner,SS,Phillies
+Francisco Lindor,SS,Mets
+CJ Abrams,SS,Nationals
+Bryson Stott,SS,Phillies
+Ha-Seong Kim,SS,Padres
+Oneil Cruz,SS,Pirates
+Willy Adames,SS,Brewers
+Mookie Betts,SS,Dodgers
+Anthony Volpe,SS,Yankees
+Bo Bichette,SS,Blue Jays
+Ezequiel Tovar,SS,Rockies
+Jeremy Pena,SS,Astros
+Carlos Correa,SS,Twins
+Dansby Swanson,SS,Cubs
+Masyn Winn,SS,Cardinals
+Zach Neto,SS,Angels
+Nick Gonzales,SS,Pirates
+Thairo Estrada,SS,Giants
+Tommy Edman,SS,Cardinals
+Jose Ramirez,3B,Guardians
+Gunnar Henderson,3B,Orioles
+Elly De La Cruz,3B,Reds
+Rafael Devers,3B,Red Sox
+Manny Machado,3B,Padres
+Austin Riley,3B,Braves
+Royce Lewis,3B,Twins
+Alec Bohm,3B,Phillies
+Jordan Westburg,3B,Orioles
+Alex Bregman,3B,Astros
+Nolan Arenado,3B,Cardinals
+Isaac Paredes,3B,Rays
+Ryan McMahon,3B,Rockies
+Matt Chapman,3B,Giants
+Christopher Morel,3B,Cubs
+Jeimer Candelario,3B,Reds
+Jake Burger,3B,Marlins
+Ke'Bryan Hayes,3B,Pirates
+Justin Turner,3B,Blue Jays
+Noelvi Marte,3B,Reds
+Ronald Acuna Jr.,RF,Braves
+Julio Rodriguez,CF,Mariners
+Corbin Carroll,CF,Diamondbacks
+Kyle Tucker,RF,Astros
+Fernando Tatis Jr.,RF,Padres
+Juan Soto,RF,Yankees
+Aaron Judge,CF,Yankees
+Yordan Alvarez,LF,Astros
+Michael Harris II,CF,Braves
+Luis Robert Jr.,CF,White Sox
+Jackson Merrill,CF,Padres
+Randy Arozarena,LF,Rays
+Adolis Garcia,LF,Rangers
+Mike Trout,CF,Angels
+Jazz Chisholm Jr.,CF,Marlins
+Nolan Jones,LF,Rockies
+Christian Yelich,LF,Brewers
+Kyle Schwarber,LF,Phillies
+Bryan Reynolds,LF,Pirates
+Seiya Suzuki,RF,Cubs
+Nick Castellanos,RF,Phillies
+George Springer,RF,Blue Jays
+Teoscar Hernandez,LF,Dodgers
+Evan Carter,LF,Rangers
+Lane Thomas,CF,Nationals
+Jordan Walker,CF,Cardinals
+Wyatt Langford,LF,Rangers
+Spencer Strider,P,Braves
+Corbin Burnes,P,Orioles
+Zack Wheeler,P,Phillies
+Luis Castillo,P,Mariners
+Pablo Lopez,P,Twins
+George Kirby,P,Mariners
+Kevin Gausman,P,Blue Jays
+Zac Gallen,P,Diamondbacks
+Tyler Glasnow,P,Dodgers
+Logan Webb,P,Giants
+Tarik Skubal,P,Tigers
+Yoshinobu Yamamoto,P,Dodgers
+Aaron Nola,P,Phillies
+Framber Valdez,P,Astros
+Freddy Peralta,P,Brewers
+Max Fried,P,Braves
+Blake Snell,P,Giants
+Logan Gilbert,P,Mariners
+Grayson Rodriguez,P,Orioles
+Zach Eflin,P,Rays
+Bobby Miller,P,Dodgers
+Jesus Luzardo,P,Marlins
+Joe Ryan,P,Twins
+Justin Steele,P,Cubs
+Cole Ragans,P,Royals
+Joe Musgrove,P,Padres
+Dylan Cease,P,Padres
+Tanner Bibee,P,Guardians
+Chris Sale,P,Braves
+Sonny Gray,P,Cardinals
+Chris Bassitt,P,Blue Jays
+Shane Bieber,P,Guardians
+Bailey Ober,P,Twins
+Michael King,P,Padres
+Hunter Greene,P,Reds
+Merrill Kelly,P,Diamondbacks
+Carlos Rodon,P,Yankees
+Jose Berrios,P,Blue Jays
+Jordan Montgomery,P,Diamondbacks
+Yu Darvish,P,Padres
+Hunter Brown,P,Astros
+Mitch Keller,P,Pirates
+Justin Verlander,P,Astros
+Cristian Javier,P,Astros
+Shota Imanaga,P,Cubs
+Gerrit Cole,P,Yankees
+Bryce Miller,P,Mariners
+Walker Buehler,P,Dodgers
+Nathan Eovaldi,P,Rangers
+Eury Perez,P,Marlins
